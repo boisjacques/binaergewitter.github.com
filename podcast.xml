@@ -23,8 +23,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 11 May 2012 11:22:55 +0200</lastBuildDate>
-    <atom:updated>2012-05-11T11:22:55+02:00</atom:updated>
+    <lastBuildDate>Fri, 11 May 2012 11:41:56 +0200</lastBuildDate>
+    <atom:updated>2012-05-11T11:41:56+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -148,7 +148,7 @@
 <li><a href="http://kolabsys.com/">Kolab 2.4 ist da - jetzt mit Roundcube</a></li>
 <li><a href="https://webmail.klab.cc/">Kolab Webtest</a></li>
 <li><a href="https://www.bof.nl/2012/05/08/netherlands-first-country-in-europe-with-net-neutrality/">Niederlande erstes Land in Europa mit Netzneutralitaet</a></li>
-<li>http://www.sueddeutsche.de/politik/kubicki-lindner-co-die-fdp-scheintot-und-aufgeblasen-1.1350410</li>
+<li><a href="http://www.sueddeutsche.de/politik/kubicki-lindner-co-die-fdp-scheintot-und-aufgeblasen-1.1350410">Süddeutsche FDP Kommentar</a></li>
 <li><a href="http://arstechnica.com/tech-policy/news/2012/05/google-gets-license-to-test-drive-autonomous-cars-on-nevada-roads.ars">Google erhaelt Lizenz fuer Selbstfahrendes Auto</a></li>
 <li><a href="http://www.neowin.net/news/the-pirate-bay-big-jump-in-traffic-following-uk-isp-ban">TPB wieder populaer durch Bann in UK</a></li>
 </ul>
@@ -221,7 +221,7 @@
 <h2>Picks</h2>
 
 <ul>
-<li>logcheck (ingo)</li>
+<li><a href="http://logcheck.org/">logcheck</a> (ingo)</li>
 <li><a href="i.imgur.com/wdmu0.jpg">Hipster-ass Hipster bike for Hipsters</a> (makefu)</li>
 <li><a href="http://www.golem.de/news/raumfahrt-wasser-wabert-im-weltall-1205-91621.html">Wasser IN SPACE</a>
 
@@ -339,7 +339,7 @@ Israel führt das &#8220;Photoshop Law&#8221; ein
 Kolab 2.4 ist da - jetzt mit Roundcube
 Kolab Webtest
 Niederlande erstes Land in Europa mit Netzneutralitaet
-http://www.sueddeutsche.de/politik/kubicki-lindner-co-die-fdp-scheintot-und-aufgeblasen-1.1350410
+Süddeutsche FDP Kommentar
 Google erhaelt Lizenz fuer Selbstfahrendes Auto
 TPB wieder populaer durch Bann in UK
 
