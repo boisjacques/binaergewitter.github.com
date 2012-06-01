@@ -1,0 +1,544 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Binärgewitter Spezial #4 - Distributed Computing - Binärgewitter</title>
+  <meta name="author" content="Binärgewitter Crew">
+
+  
+  <meta name="description" content="BOINC gibt es zwar schon lange und es wird immer noch viel benutzt. Felix und Ingo sprechen mit Torbjörn und Andreas über den Rechenkraft.net e.V., ...">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="http://feeds.feedburner.com/binaergewitter-podcast" rel="alternate" title="Binärgewitter" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    (function() {
+        var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+
+        t.parentNode.insertBefore(s, t);
+    })();
+/* ]]> */
+</script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Binärgewitter</a></h1>
+  
+    <h2>Web, Technologie und OpenSource Software</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="http://feeds.feedburner.com/binaergewitter-podcast" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:blog.binaergewitter.de" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/live/">Live</a></li>
+  <li><a href="/das-team/">Team</a></li>
+  <li><a href="/ueber-uns/">&#220;ber Bin&#228;rgewitter</a></li>
+  <li><a href="/abonnieren/">Abonnieren</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/impressum/">Impressum</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Binärgewitter Spezial #4 - Distributed Computing</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-05-17T15:30:00+02:00" pubdate data-updated="true">17.05.2012</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>BOINC gibt es zwar schon lange und es wird immer noch viel benutzt. Felix und Ingo sprechen mit Torbjörn und Andreas über den Rechenkraft.net e.V., Distributed Computing, BOINC, Einsatzszenarien und
+Alternativen zu BOINC.</p>
+
+<ul>
+<li>WP: <a href="https://de.wikipedia.org/wiki/Verteiltes_Rechnen">verteiltes Rechnen</a></li>
+<li>WP: <a href="https://de.wikipedia.org/wiki/Bitcoin">Bitcoin</a></li>
+<li>WP: <a href="https://de.wikipedia.org/wiki/Cloud_Computing">Cloud</a></li>
+<li><a href="http://www.boinctreffen.de">BOINC Treffen</a> / 17-20.5.2012</li>
+<li>Kategorien:
+
+<ul>
+<li>Distributed Computing - SETI@Home</li>
+<li>Distributed Thinking - <a href="http://www.openstreetmap.org/">openstreetmap</a></li>
+<li> die <a href="http://www.zooniverse.org/">Zooniverse</a>-Projekte</li>
+<li>  <a href="http://www.pgdp.net/c/">Distributed Proofreaders</a> / <a href="http://www.gutenberg.org/">Project Gutenberg</a></li>
+<li>  <a href="http://www.scistarter.com/">SciStarter</a>: Datenbank zahlreicher &#8220;Handarbeits&#8221;-Citizen-Science-Projekte</li>
+<li>Citizen Science - <a href="http://www.solarstormwatch.com/">Solar Stormwatch</a>
+
+<h2>BOINC</h2></li>
+</ul>
+</li>
+<li><a href="http://boinc.berkeley.edu/">Berkeley Open Infrastructure for Network Computing</a></li>
+<li>entwicklet von <em>Dr. David Anderson</em> am <a href="http://ssl.berkeley.edu/">Space Science Laboratory</a> der <em>University of California, Berkeley</em></li>
+<li>plattformunabhängiges Server-Client-Framework</li>
+<li>Server
+
+<ul>
+<li>hauptsächlich in C geschrieben</li>
+<li>Webfrontent in PHP</li>
+<li>MySQL als Datenbank</li>
+<li>Konfiguration über ein XML-File</li>
+<li>LGPL</li>
+</ul>
+</li>
+<li>Client
+
+<ul>
+<li>in C geschrieben</li>
+<li>bestehend aus
+
+<ul>
+<li>dem Kommandozeilen-Clienten (boinc) selbst (kann auch als Daemon laufen)</li>
+<li>dem Kommandozeilen-Commander (boinccmd), um per Kommandozeile einen laufenden Clienten zu administrieren</li>
+<li>dem grafischen BOINC-Manager (boincmgr), um grafisch einen laufenden Clienten zu managen</li>
+<li>Commander und Manager können auch zu entfernten Clienten verbinden (z.B. mehrere Maschinen im LAN, aber nur ein Managing-Node)</li>
+</ul>
+</li>
+<li>Konfiguration ebenfalls über ein XML-File</li>
+</ul>
+</li>
+<li>Anwendungen für die eigentlichen Berechnungen werden von einzelnen Projekten bereitgestellt
+
+<ul>
+<li>drei Typen von Apps: klassische CPU, low CPU und <a href="https://boinc.berkeley.edu/wiki/GPU_computing">GPU</a>
+
+<ul>
+<li>GPU -> <a href="https://en.wikipedia.org/wiki/CUDA">CUDA(Nvidia)</a> und Stream(ATI), sowie <a href="https://en.wikipedia.org/wiki/OpenCL">OpenCL</a></li>
+</ul>
+</li>
+<li>CPU-Anwendungen können (rein theorerisch) auch <a href="http://en.wikipedia.org/wiki/Symmetric_multiprocessing">SMP</a> sein, in der Praxis haben sich jedoch einige Probleme seitens BOINC damit gezeigt</li>
+</ul>
+</li>
+<li>Nachteile von BOINC
+
+<ul>
+<li>Sicherheit</li>
+<li><a href="http://de.wikipedia.org/wiki/WebGL">3D im Browser</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h3>BOINC-Alternativen</h3>
+
+<ul>
+<li>einzig uns bekannte: <a href="http://www.uni-marburg.de/fb12/verteilte_systeme/forschung/grid_tools">MAGE - Marburg Ad-hoc Grid Environment</a></li>
+<li>entwickelt von Arbeitsgruppe um <em>Prof. Dr. Bernd Freisleben</em> an der Universität Marburg, Fachbereich Mathematik und Informatik</li>
+<li>einige (wenige) Projekte nutzen ein individuell entwickletes Server-Client-Framework
+(z.B. <a href="http://folding.stanford.edu/">Folding@Home</a>, <a href="http://www.distributed.net/Main_Page">Distributed.net</a>,
+<a href="http://www.stephenbrooks.org/muon1/">Muon</a>)</li>
+</ul>
+
+
+<h3>Anwendungen</h3>
+
+<ul>
+<li>Jedes computational Problem, das sich in viele voneinander unabhängiger Pakete unterteilen lässt und die
+Datenmenge pro Paket nicht zu groß ist, ist für BOINC prädestiniert
+
+<ul>
+<li>Positivbeispiel: Primfaktorzerlegung, Signalanalyse, Rendern</li>
+<li>Negativbeispiel: Crashtest-Simulation (zu enge Abhängigkeit der Daten), Particle-Tracking (zu große Datenmenge)</li>
+<li>Stichwort <a href="http://en.wikipedia.org/wiki/Embarrassingly_parallel">Embarrassingly Parrallel</a></li>
+</ul>
+</li>
+<li>bestehende Programme können in BOINC eingehangen werden (<a href="http://boinc.berkeley.edu/trac/wiki/WrapperApp">BOINCWrapper</a>)
+
+<ul>
+<li>z.B. <a href="http://en.wikipedia.org/wiki/AutoDock">Autodock - Molecular Modeling</a></li>
+</ul>
+</li>
+<li><a href="https://www.rechenkraft.net/wiki/index.php?title=Projekt%C3%BCbersicht">eine relativ vollständige List aller DC-Projekte im Rechenkraft.net-Wiki</a></li>
+</ul>
+
+
+<h3>BOINC-Projekte</h3>
+
+<ul>
+<li>die Urgesteine
+
+<ul>
+<li><a href="http://setiathome.berkeley.edu/">SETI@Home</a>: Radiosignale nach Außerirdischen durchsuchen</li>
+<li><a href="http://www.distributed.net/Main_Page">Distributed.net</a>: Encryption knacken, Optimalen
+Gulomb-Maßstab berechnen</li>
+<li><a href="http://folding.stanford.edu">Folding@Home</a>: Proteine falten (auch mit PS3 und GPUs)</li>
+</ul>
+</li>
+<li>deutsche Aushängeschilder
+
+<ul>
+<li><a href="http://einstein.phys.uwm.edu/">Einstein@Home</a>: Gravitationswellen suchen, Radiopulsare finden</li>
+<li><a href="http://boinc.fzk.de/poem/">POEM@Home</a>: Proteine falten</li>
+<li><a href="http://www.rnaworld.de/rnaworld/">RNA World</a>: RNAs finden und klassifizieren</li>
+</ul>
+</li>
+<li>Sensorprojekte
+
+<ul>
+<li><a href="http://qcn.stanford.edu/">Quake Catcher Network</a>: Erdbeben erkennen und melden</li>
+<li><a href="http://www.kickstarter.com/projects/edborden/air-quality-egg">AirQualityEgg</a></li>
+<li><a href="http://radioactiveathome.org/boinc/">Radioactive@Home</a>: Radioaktive Strahlung messen und melden</li>
+<li><a href="http://www.freerainbowtables.com/">Distributed Rainbow Tables</a>: Rechnen an Rainbow Tables for the greater good</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Rechenkraft.net e.V.</h2>
+
+<ul>
+<li><a href="http://rechenkraft.net">Rechenkraft.net</a>
+
+<ul>
+<li><a href="http://www.rechenkraft.net/yoyo/">Yoyo@Home</a>: Umbrella-/Wrapper-Projekt
+
+<ul>
+<li><a href="http://www.evolutionary-research.net/">Evolution@Home: Simulation von Evolution</a></li>
+<li><a href="http://www.stephenbrooks.org/muon1/">Muon: Simulationen zur Planung einer Neutrino-Fabrik</a></li>
+<li><a href="http://euler.free.fr/details.htm">EulerNet</a> (beendet)</li>
+<li>ECM: Finden von großen Primfaktoren (>40 Stellen)</li>
+</ul>
+</li>
+<li><a href="http://www.rnaworld.de/rnaworld">RNA World</a>: wissenschaftliches Forschungsprojekt zur Untersuchung von RNAs</li>
+</ul>
+</li>
+<li><a href="http://aerospaceresearch.net/constellation/">Constellation</a></li>
+<li>Citizen Science
+
+<ul>
+<li><a href="http://www.ibats.org.uk">iBats</a>: mit dem iPhone Fledermäuse tracken</li>
+<li><a href="http://www.dontflush.me">DontFlushMe</a>: für weniger Sch**** im Hudson River (New York)</li>
+</ul>
+</li>
+<li><a href="http://boincoid.sourceforge.net/">Boincoid</a>: BOINC-Clienten übers Smartphone managen</li>
+<li><a href="http://krzyszp.info/index.php?option=com_content&amp;view=article&amp;id=29:nativeboinc-for-android&amp;catid=7:linux&amp;Itemid=6">NativeBOINC</a>: derzeit wohl beste Android-Client mit Unterstützung für Milkyway@Home, PrimeGrid, Enigma@Home und Radioactive@Home</li>
+</ul>
+
+</div>
+
+
+
+
+
+
+
+<div class="audio-content">
+   <audio preload='none' controls><source src='http://download.binaergewitter.de/2012-05-17.Binaergewitter.Spezial.4.mp3' type='audio/mp3' /><source src='http://download.binaergewitter.de/2012-05-17.Binaergewitter.Spezial.4.ogg' type='audio/ogg' /></audio>
+  <p id="download-buttons">
+  
+  <a href="http://download.binaergewitter.de/2012-05-17.Binaergewitter.Spezial.4.mp3"><img src="/images/audio_mp3_button.png"
+    title="download mp3" alt="download mp3" style="border:0; border-radius:0;" /></a>
+  
+  <a href="http://download.binaergewitter.de/2012-05-17.Binaergewitter.Spezial.4.ogg"><img src="/images/audio_ogg_button.png"
+    title="download ogg" alt="download ogg" style="border:0; border-radius:0;" /></a>
+  
+  </p>
+</div>
+
+
+
+  <div class="flattr-button">
+  <a class="FlattrButton" style="display:none;"
+    
+    
+    title="Binärgewitter Spezial #4 - Distributed Computing"
+    data-flattr-uid="binaergewitter"
+    data-flattr-tags="podcast,tech,software"
+    data-flattr-button="compact"
+    data-flattr-category="audio"
+    href="http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing/">
+    
+  </a>
+</div>
+
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Binärgewitter Crew</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-05-17T15:30:00+02:00" pubdate data-updated="true">17.05.2012</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/spezial/'>spezial</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing/" data-via="binaergewitter" data-counturl="http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2012/05/11/binaergewitter-talk-number-14-samsung-ist-scharf-auf-tizen-piratephone/" title="Previous Post: Binärgewitter Talk #14 - Samsung ist scharf auf Tizen Piratephone">&laquo; Binärgewitter Talk #14 - Samsung ist scharf auf Tizen Piratephone</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2012/05/26/binaergewitter-talk-number-14-cockford-maximal-strukturiert-wegflickschustern/" title="next Post: Binärgewitter Talk #15 - Cockford maximal strukturiert wegflickschustern">Binärgewitter Talk #15 - Cockford maximal strukturiert wegflickschustern &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/06/01/binaergewitter-talk-number-16-opensource-messias/">Binärgewitter Talk #16 - OpenSource Messias</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/05/26/binaergewitter-talk-number-14-cockford-maximal-strukturiert-wegflickschustern/">Binärgewitter Talk #15 - Cockford maximal strukturiert wegflickschustern</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing/">Binärgewitter Spezial #4 - Distributed Computing</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/05/11/binaergewitter-talk-number-14-samsung-ist-scharf-auf-tizen-piratephone/">Binärgewitter Talk #14 - Samsung ist scharf auf Tizen Piratephone</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/05/04/binaergewitter-talk-number-13-yoldling-yeti-bazen-in-the-distributed-redundant-secure-raid-backup-storage-cloud/">Binärgewitter Talk #13 - Yodling Yeti Bazen in the Distributed Redundant Secure RAID Backup Storage Cloud</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+<div class="flattr-button">
+  <h1>Flattr</h1>
+  <a class="FlattrButton" style="display:none;"
+    title="Binärgewitter"
+    data-flattr-uid="binaergewitter"
+    data-flattr-tags="podcast,tech,software"
+    data-flattr-category="audio"
+    href="http://blog.binaergewitter.de">
+    Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt
+  </a>
+</div>
+</section>
+
+
+<section>
+  <h1>Github Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/binaergewitter">@binaergewitter</a> on Github
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'binaergewitter',
+            count: 2,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("binaergewitter", 5, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/binaergewitter" class="twitter-follow-button" data-show-count="false">Follow @binaergewitter</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Binärgewitter Crew - Lizenz <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">CC-BY-NC-SA</a> -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  <!-- analytics tracking code -->
+
+
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+(function () { var u=(("https:" == document.location.protocol) ? "https://piwik.roothausen.de/" : "http://piwik.roothausen.de/");
+ _paq.push(['setSiteId', 3]);
+ _paq.push(['setTrackerUrl', u+'piwik.php']);
+ _paq.push(['trackPageView']);
+ _paq.push(['enableLinkTracking']);
+ var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.defer=true; g.async=true; g.src=u+'piwik.js';
+ s.parentNode.insertBefore(g,s); })();
+</script>
+<!-- End Piwik Code -->
+
+
+
+<!-- other JS plugins -->
+
+
+<script type="text/javascript">
+      var disqus_shortname = 'binaergewitterpodcast';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing/';
+        var disqus_url = 'http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
