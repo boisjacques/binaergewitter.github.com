@@ -4,7 +4,7 @@
   <title><![CDATA[Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2012-06-08T12:08:33+02:00</updated>
+  <updated>2012-06-08T14:12:42+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -116,7 +116,7 @@
 <h2>Picks</h2>
 
 <ul>
-<li><a href="p.twimg.com/AuzyQyHCAAEPVz0.png#twimg">Twitter Logo sieht aus wie Batman</a></li>
+<li><a href="http://p.twimg.com/AuzyQyHCAAEPVz0.png#twimg">Twitter Logo sieht aus wie Batman</a></li>
 <li><a href="http://pyload.org/">Pyload</a>(felix)</li>
 <li><a href="http://redis.io">Redis</a> (pfleidi)</li>
 <li><a href="http://www.sinatrarb.com">Sinatra</a> (pfleidi)</li>
