@@ -23,8 +23,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 01 Jun 2012 13:26:00 +0200</lastBuildDate>
-    <atom:updated>2012-06-01T13:26:00+02:00</atom:updated>
+    <lastBuildDate>Fri, 08 Jun 2012 12:08:33 +0200</lastBuildDate>
+    <atom:updated>2012-06-08T12:08:33+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,261 @@
     <media:credit role="author">Binärgewitter Crew</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
+    
+    
+    <item>
+      <title>Binärgewitter Talk #17 - SysV Combat Scripts</title>
+      <link>http://blog.binaergewitter.de/blog/2012/06/08/binaergewitter-talk-number-17-sysv-combat-scripts/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/06/08/binaergewitter-talk-number-17-sysv-combat-scripts/#comments</comments>
+      <pubDate>Fri, 08 Jun 2012 13:30:00 +0200</pubDate>
+      <atom:updated>2012-06-08T13:30:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F06%2F08%2Fbinaergewitter-talk-number-17-sysv-combat-scripts%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2317%20-%20SysV%20Combat%20Scripts&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/06/08/binaergewitter-talk-number-17-sysv-combat-scripts</guid>
+      
+      <description>
+        <![CDATA[<p>Drei Zombies essen Pokemons, tanzen wieder durch die News der letzten Woche und quatschen über Systemd.</p>
+
+<h2>OT</h2>
+
+<ul>
+<li><a href="25.media.tumblr.com/tumblr_m3hnnzf9nU1qhbr2so1_400.jpg">Blast from the Past: In Pokemonland werden Pokemon gegessen</a></li>
+</ul>
+
+
+<h2>Rubrik der Woche</h2>
+
+<h3>Verschwoerungstheorie der Woche</h3>
+
+<ul>
+<li><p><a href="http://pastebin.com/Ht8QJYFe">Zombies in Florida(Pastebin)</a></p>
+
+<ul>
+<li>http://www.huffingtonpost.com/2012/05/31/alexander-kinyua-kujoe-agyei-kodie-ate-brain-heart-roommate-maryland_n_1560149.html</li>
+<li><a href="http://all-that-is-interesting.com/post/4956385434/the-first-zombie-proof-house">Zombie proof house</a></li>
+<li><a href="http://www.amazon.de/gp/product/3442458099/ref=as_li_ss_tl?ie=UTF8&amp;tag=trektrip&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3442458099">Der Zombie Survival Guide - deutsch</a></li>
+<li><a href="http://www.amazon.de/gp/product/1400049628/ref=as_li_ss_tl?ie=UTF8&amp;tag=trektrip&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=1400049628">Zombie Survival Guid - englisch</a>
+
+<h2>Toter der Woche</h2></li>
+</ul>
+</li>
+<li><p><a href="http://pipes.yahoo.com/pipes/pipe.info?_id=029d3e6c68d506a17b82b0135350ab03">Yahoo Pipes: TDW Aggregator</a></p></li>
+<li><a href="http://www.spiegel.de/netzwelt/web/trololo-mann-eduard-khil-ist-tot-a-836761.html">Trolololo Mann ist verstorben</a></li>
+<li>500px.com</li>
+<li><a href="http://youarenotaphotographer.com/">Du bist kein Fotograf</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://www.golem.de/news/top-level-domains-google-meldet-google-docs-und-lol-an-1205-92202.html">Google meldet .docs und .lol bei ICANN an</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Internet-Knoten-registrieren-nur-geringen-Anstieg-bei-IPv6-1611745.html">IPv6 Day nur mäßiger Erfolg</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2012/06/confirmed-us-israel-created-stuxnet-lost-control-of-it/">Stuxnet von US und Israelischem Geheimdienst - haben Kontrolle verloren</a>
+
+<ul>
+<li><a href="http://blog.crysys.hu/2012/06/stuxnet-duqu-flame-open-source-license-questions-v0/">Stuxnet/Duqu/Flame und die GPL</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Flame_%28malware%29">Flame Malware</a></li>
+</ul>
+</li>
+<li><a href="http://www.pro-linux.de/news/1/18433/oracle-verliert-copyright-klage-gegen-google.html">Oracle verliert gegen Google</a></li>
+<li><a href="http://blog.apievangelist.com/2012/06/01/barak-obama-directs-all-federal-agencies-to-have-an-api/">Obama: Alle Behoerden soll einen API bereitstellen</a></li>
+<li><a href="http://news.cnet.com/8301-1023_3-57447316-93/facebook-boring-1-in-3-users-are-tuning-it-out/">Facebook fuer 1/3 der user <code>Langweilig</code></a></li>
+<li><a href="http://thenextweb.com/socialmedia/2012/06/06/bad-day-for-linkedin-6-5-million-hashed-passwords-reportedly-leaked-change-yours-now/">Bei Linkedin gehen 6,5 Mio gehashte Passwörter flöten</a>
+
+<ul>
+<li><a href="http://leakedin.org/">Leakedin</a></li>
+<li><a href="http://shiflett.org/blog/2012/jun/leakedin">Blogpost zu Leakedin</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Pbkdf2">PBKDF2</a></li>
+<li>hint zum datensatz: pastebin.com</li>
+</ul>
+</li>
+<li><a href="https://developer.mozilla.org/en/Thunderbird/Autoconfiguration">Thunderbrid Autoconfiguration</a></li>
+<li><a href="http://www.golem.de/news/mozilla-thunderbird-13-macht-sinnlose-anhaenge-sinnlos-1206-92315.html">Thunderbird 13 und Email Anhänge</a></li>
+<li><a href="http://www.heise.de/developer/artikel/vert-x-asynchrones-und-Event-getriebenes-Java-Webframework-1587065.html">vert.x als Altenative zu Node.js?</a></li>
+<li>Archlinux wechselt langsam Richtung systemd &#8211; tautscht udev mit systemd
+
+<ul>
+<li><a href="http://www.heise.de/open/artikel/Das-Init-System-Systemd-Teil-1-1563259.html">Systemd Artikel bei heise</a></li>
+<li><a href="https://wiki.archlinux.org/index.php/Systemd#Native_systemd_configuration_files">Archlinux Wiki zu Systemd</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/open/meldung/Erste-Beta-von-Samba-4-ist-da-1605218.html">erste Beta von Samba 4</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.spencertipping.com/posts/2012.0530.why-i-left-google.html">Why I left Google</a> (pfleidi)</li>
+<li><a href="http://amasci.com/amateur/whygnd.html">Warum hat die Steckdose 3 Stifte?</a>
+
+<ul>
+<li><a href="http://xkcd.com/927/">XKCD</a></li>
+<li><a href="http://omegataupodcast.net/2012/03/89-desertec/">Omega Tao: Deserttec</a></li>
+</ul>
+</li>
+<li><a href="http://www.uberlin.co.uk/what-i-know-about-germans/">What I know about Germans</a> (pfleidi)</li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>ulimit / offene Files (ingo)</li>
+<li>vhosts mit &#8220;Flex RAM&#8221;,</li>
+<li>alsa.opensrc.org down (ingo)</li>
+<li>vhosts mit krepliger IO, Graphite</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="p.twimg.com/AuzyQyHCAAEPVz0.png#twimg">Twitter Logo sieht aus wie Batman</a></li>
+<li><a href="http://pyload.org/">Pyload</a>(felix)</li>
+<li><a href="http://redis.io">Redis</a> (pfleidi)</li>
+<li><a href="http://www.sinatrarb.com">Sinatra</a> (pfleidi)</li>
+<li><a href="http://code.google.com/p/gource/">Gource</a> (ingo)</li>
+</ul>
+
+]]>
+      </description>
+      
+       
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2012-06-07.Binaergewitter.Talk.17.mp3" length="90416864" type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2012-06-07.Binaergewitter.Talk.17.mp3" fileSize="90416864" type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #17 - SysV Combat Scripts</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Drei Zombies essen Pokemons, tanzen wieder durch die News der letzten Woche und quatschen über Systemd.
+
+OT
+
+
+Blast from the Past: In Pokemonland werden Pokemon gegessen
+
+
+
+Rubrik der Woche
+
+Verschwoerungstheorie der Woche
+
+
+Zombies in Florida(Pastebin)
+
+
+http://www.huffingtonpost.com/2012/05/31/alexander-kinyua-kujoe-agyei-kodie-ate-brain-heart-roommate-maryland_n_1560149.html
+Zombie proof house
+Der Zombie Survival Guide - deutsch
+Zombie Survival Guid - englisch
+
+Toter der Woche
+
+
+Yahoo Pipes: TDW Aggregator
+Trolololo Mann ist verstorben
+500px.com
+Du bist kein Fotograf
+
+
+
+News
+
+
+Google meldet .docs und .lol bei ICANN an
+IPv6 Day nur mäßiger Erfolg
+Stuxnet von US und Israelischem Geheimdienst - haben Kontrolle verloren
+
+
+Stuxnet/Duqu/Flame und die GPL
+Flame Malware
+
+
+Oracle verliert gegen Google
+Obama: Alle Behoerden soll einen API bereitstellen
+Facebook fuer 1/3 der user Langweilig
+Bei Linkedin gehen 6,5 Mio gehashte Passwörter flöten
+
+
+Leakedin
+Blogpost zu Leakedin
+PBKDF2
+hint zum datensatz: pastebin.com
+
+
+Thunderbrid Autoconfiguration
+Thunderbird 13 und Email Anhänge
+vert.x als Altenative zu Node.js?
+Archlinux wechselt langsam Richtung systemd &#8211; tautscht udev mit systemd
+
+
+Systemd Artikel bei heise
+Archlinux Wiki zu Systemd
+
+
+erste Beta von Samba 4
+
+
+
+Lesefoo
+
+
+Why I left Google (pfleidi)
+Warum hat die Steckdose 3 Stifte?
+
+
+XKCD
+Omega Tao: Deserttec
+
+
+What I know about Germans (pfleidi)
+
+
+
+Mimimi der Woche
+
+
+ulimit / offene Files (ingo)
+vhosts mit &#8220;Flex RAM&#8221;,
+alsa.opensrc.org down (ingo)
+vhosts mit krepliger IO, Graphite
+
+
+
+Picks
+
+
+Twitter Logo sieht aus wie Batman
+Pyload(felix)
+Redis (pfleidi)
+Sinatra (pfleidi)
+Gource (ingo)
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
