@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/categories/talk/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2012-09-18T08:37:48+02:00</updated>
+  <updated>2012-09-23T11:54:20+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -81,7 +81,7 @@
 <li><a href="http://www.opus-codec.org/">Opus</a>
 
 <ul>
-<li><a href="http://en.wikipedia.org/wiki/Opus_(audio_format">wiki</a> )</li>
+<li><a href="http://en.wikipedia.org/wiki/Opus_(audio_format">wiki</a></li>
 <li><a href="http://www.zdnet.de/88123034/ietf-verabschiedet-lizenzfreien-online-audio-standard-opus/">auf deutsch</a></li>
 <li><a href="https://hacks.mozilla.org/2012/07/firefox-beta-15-supports-the-new-opus-audio-format/">Firefox Announcement</a></li>
 </ul>
@@ -96,10 +96,10 @@
 <li><a href="http://www.theverge.com/2012/8/24/3254422/apple-samsung-trial-verdict">Apple vs Samsung: Samsungs geraete sind abgekupfert - 1Mrd Schaden</a>
 
 <ul>
-<li>http://lh6.googleusercontent.com/-6d234SvPnHg/UDsciQpy0QI/AAAAAAAAAtM/pqGOjyoNpOU/s522/5181866_700b%5B1%5D.jpg</li>
-<li><a href="https://plus.google.com/u/0/114476892281222708332/posts/246srfbqg6G">"Was? Apple ist das gleiche wie Samsung? Ich hab gewusst, dass wir von Apple abgezockt wurden!" - Beste Marketing Kampagne fuer Samsung?</a></li>
+<li><a href="http://lh6.googleusercontent.com/-6d234SvPnHg/UDsciQpy0QI/AAAAAAAAAtM/pqGOjyoNpOU/s522/5181866_700b%5B1%5D.jpg">Bild</a></li>
+<li><a href="https://plus.google.com/u/0/114476892281222708332/posts/246srfbqg6G">"Was? Apple ist das gleiche wie Samsung? Ich hab gewusst, dass wir von Apple abgezockt wurden!" - Beste Marketing Kampagne für Samsung?</a></li>
 <li><a href="http://allthingsd.com/20120823/samsung-opens-new-apple-store-in-australia/">Samsung eroeffnet Apple Store in Australien</a></li>
-<li><a href="http://www.zurmat.com/2012/08/29/samsung-pays-apple-1-billion-sending-30-trucks-full-of-5-cent-coins/">Samsung zahlt mit 30 trucks voll mit 5Cent Muenzen (hoax)</a></li>
+<li><a href="http://www.zurmat.com/2012/08/29/samsung-pays-apple-1-billion-sending-30-trucks-full-of-5-cent-coins/">Samsung zahlt mit 30 trucks voll mit 5Cent Münzen (hoax)</a></li>
 <li><a href="http://gizmodo.com/5940253/chinese-clone-company-will-sue-apple-over-iphone-5-design">GooPhone - iPhone Knockoff - will mit geleaktem Parts Apple wegen iPhone5 Design verklagen</a></li>
 </ul>
 </li>
@@ -140,7 +140,6 @@
 
 <ul>
 <li><a href="http://www.igvita.com/2012/09/12/web-fonts-performance-making-pretty-fast/">Web Fonts Performance: Making Pretty, Fast</a> (Marc)</li>
-<li><a href="http://www.sourcefabric.org/en/community/blog/">Airtime Community Blog</a> Ingo</li>
 <li><a href="http://paulrouget.com/e/diet/">How I lost 14KG in 10 weeks</a> (pfleidi)
 
 <ul>
@@ -155,12 +154,6 @@
 </ul>
 </li>
 <li><a href="http://rtm-cs.sinp.msu.ru/manual/rtl/rtlmanifesto.pdf">The RTLinux Manifesto</a></li>
-<li><a href="http://tirania.org/blog/archive/2012/Aug-29.html">What killed the Linux desktop</a> (pfleidi)
-
-<ul>
-<li><a href="https://plus.google.com/115250422803614415116/posts/hMT5kW8LKJk">Diskussion auf Google+</a></li>
-</ul>
-</li>
 <li><a href="http://klevjers.com/papers/phishing.pdf">Phishing by Data URI</a></li>
 <li><a href="http://www.sqlite.org/src4/doc/trunk/www/design.wiki">Design of SQLite 4</a> (Marc)</li>
 <li><a href="http://fosslien.com/startup/">Startup is the New Hipster</a></li>
