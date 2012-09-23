@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/categories/talk/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2012-09-23T11:54:20+02:00</updated>
+  <updated>2012-09-23T11:57:15+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,124 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #26 - SSH-Session kackt ab wenn der andere seine Mails liest]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2012/09/23/binaergewitter-talk-number-26-SSH-session-kackt-ab-wenn-der-andere-seine-mails-liest/"/>
+    <updated>2012-09-23T12:00:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2012/09/23/binaergewitter-talk-number-26-SSH-session-kackt-ab-wenn-der-andere-seine-mails-liest</id>
+    <content type="html"><![CDATA[<p>Felix ist die einzige Konstante. Aber Ingo ist auch wieder aus dem Stress und Urlaub zurück. Diesmal dreht weinen wir über First World Problems und freuen und über Kleinigkeiten wie Zugverbindungen mit Google Maps.</p>
+
+<h2>Kategorie der Woche</h2>
+
+<h3>Einsichten der Woche</h3>
+
+<ul>
+<li><a href="http://tech.slashdot.org/story/12/09/20/1645202/sophos-anti-virus-update-identifies-sophos-code-as-malware">Sophos davon überzeugt, dass es selbst ein Virus sei</a></li>
+<li>"Die verklagen sich doch alle gegenseitig" (ingo)</li>
+<li><a href="http://www.pro-linux.de/news/1/18906/software-patentangriff-auf-git.html">Git wird verklagt</a>
+
+<ul>
+<li><a href="http://arstechnica.com/tech-policy/2012/09/patent-office-tries-stack-overflow-for-patents-to-find-prior-art/">Stack Overflow for Patents</a></li>
+<li><a href="http://www.pro-linux.de/news/1/18883/google-aliyun-os-verletzt-android-kompatibilitaet.html">Aliyun OS</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="">IPv4</a>
+
+<ul>
+<li> <a href="http://www.heise.de/ix/meldung/IPv6-Nachholbedarf-bei-Sicherheitsloesungen-1713030.html">IPv6 Sicherheit</a></li>
+</ul>
+</li>
+<li><a href="http://browserfame.com/807/userscripts-org-chrome-disabled">Userscripts.org</a></li>
+</ul>
+
+
+<h2>Apropos</h2>
+
+<ul>
+<li><a href="https://wiki.archlinux.org/index.php/Archboot">Archboot</a></li>
+<li>Opus Codec</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="https://community.rapid7.com/community/metasploit/blog/2012/09/17/lets-start-the-week-with-a-new-internet-explorer-0-day-in-metasploit">Internet Explorer 0-Day</a>
+
+<ul>
+<li><a href="https://www.bsi.bund.de/ContentBSI/Presse/Pressemitteilungen/Presse2012/Internet%20Explorer%20Warnung%2017092012.html">BSI Pressemitteilung</a></li>
+</ul>
+</li>
+<li><a href="http://www.youtube.com/watch?v=wvsboPUjrGc">Steve Balmer dreht frei</a></li>
+<li><a href="http://news.ycombinator.net/item?id=4517278">Steve Wozniak ueber Samsung Patentstreit</a></li>
+<li><a href="http://www.kickstarter.com/projects/1186217328/the-glitch">The Glitch </a>
+
+<ul>
+<li><a href="http://hakshop.myshopify.com/products/usb-rubber-ducky">USB Rubber Ducky</a></li>
+<li><a href="">Teensy + MicroUSB</a></li>
+</ul>
+</li>
+<li>mal wieder ein Humble Bundle
+
+<ul>
+<li>[indieroyale] (http://indieroyale.com)</li>
+</ul>
+</li>
+<li><a href="http://www.patentbolt.com/2012/09/microsoft-patent-how-to-silence-your-device-by-whacking-it-off.html">MS Patent: Silence the Phone by whacking it</a></li>
+<li><a href="http://news.ycombinator.com/item?id=4532318">Just Cause 2 Multi Player</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Unmut-und-Erheiterung-ueber-iOS-6-Maps-1714063.html">Lustige Map App</a></li>
+<li><a href="http://iphone.geeks.lt/">IPhone 5 - der naechste logische Schritt</a></li>
+<li><a href="http://lh3.googleusercontent.com/-_nKGZyyI_A4/UFMsGCbHp2I/AAAAAAAADAc/TDi8-qsrMeQ/s389/399025_423307264394003_252774228_n_large.jpg">Lustiges Bild</a></li>
+<li><a href="https://maps.google.de">https://maps.google.de/</a> kann jetzt auch Zug verbindungen in Dtl. (Ingo)</li>
+<li><a href="http://thenextweb.com/google/2012/09/19/security-researchers-hack-android-via-nfc-samsung-galaxy-s-iii/">Android hacked</a></li>
+<li>[IOS 6 jailbreak] ( http://www.zdnet.de/88124335/jailbreak-von-ios-6-schon-erfolgreich/ )</li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h3>Projekterunde</h3>
+
+<ul>
+<li>http://bgtest.marcseeger.webfactional.com/</li>
+<li>https://github.com/makefu/newgrounds-fetcher</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.sourcefabric.org/en/community/blog/">Airtime Community Blog</a></li>
+<li><a href="http://www.garage4hackers.com/content/139-google-website-translator-clickjacking-vulnerability.html">Clickjacking am Beispiel Google Translate</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="http://maxfriedrich.de/post/19892209366/probleme-die-eigentlich-nicht-schlimm-scheinen-aber">First World Problems</a></li>
+<li>UMTS / LTE im Nirgendwo</li>
+<li><a href="http://www.amazon.de/gp/product/B005DQXIIC/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B005DQXIIC&amp;linkCode=as2&amp;tag=trektrip">HUAWEI</a></li>
+<li>HiLink</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.newgrounds.com/portal/view/529003">Mr. Literal</a></li>
+<li><a href="http://www.amazon.de/gp/product/3869090758/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3869090758&amp;linkCode=as2&amp;tag=trektrip">Das Känguru-Manifest</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #25 - Pigstarter]]></title>
@@ -672,144 +790,6 @@ Security Foo.</p>
 </li>
 <li><a href="https://media.defcon.org/">DEF CON Videos</a></li>
 <li><a href="http://what-if.xkcd.com">What if</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #21 - (╯°□°）╯︵ ┻━┻]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tischumwerfen/"/>
-    <updated>2012-07-13T13:30:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tischumwerfen</id>
-    <content type="html"><![CDATA[<p>Das neue Studiosetup ist so gut wie fertig, dafür haben wir pfleidi diesmal verloren. Macht aber nix wir quatschen über Indoornavigation, Security Fuckups und vieles mehr.</p>
-
-<h2>Rubrik der Woche</h2>
-
-<h3>Security Fuckups der Woche</h3>
-
-<ul>
-<li><a href="http://www.androidincanada.ca/news/vulnerability-for-asus-app-app-locker-found/">App Locker App stirbt an Smileys</a></li>
-<li><a href="HN%20Artikel">Yahoo Username/Passwoerter frei zum Download</a></li>
-<li><a href="http://packetstormsecurity.org/files/114639/instagram-auth.txt">Instagram Friendship Authorization</a></li>
-<li><a href="https://twitter.com/NeedADebitCard">Need a debit card</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/EC-Karten-PIN-Klau-am-Kartenterminal-moeglich-1636550.html">Heise Bericht über manipulierbare Kartenterminals</a></li>
-<li><a href="http://blog.formspring.me/2012/07/urgent-change-your-formspring-password/">Formspring leaked, aber nicht so schlimm</a></li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://www.pro-linux.de/news/1/18586/eugeni-dodonov-toedlich-verunglueckt.html">Eigeni Dodonov</a></li>
-</ul>
-
-
-<h2>Media Player Foo der Woche</h2>
-
-<ul>
-<li><a href="http://xbmc.org/">XBMC</a></li>
-<li><a href="http://openelec.tv/">openELEC</a></li>
-<li><a href="http://www.amazon.de/gp/product/B007KJ57O8/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007KJ57O8&amp;linkCode=as2&amp;tag=trektrip">LG 3D Bluray Player - Nachfolge Modell</a></li>
-<li><a href="http://www.amazon.de/gp/product/B0043EV3MS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B0043EV3MS&amp;linkCode=as2&amp;tag=trektrip">Boxee Box</a></li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li><a href="http://www.heise.de/newsticker/meldung/Kanadisch-europaeisches-Handelsabkommen-ACTA-reloaded-1636041.html">ACTA wiederbelebt</a></li>
-<li><a href="http://logbuch-netzpolitik.de/lnp031-handwerkliche-fehler/">Logbuch Netzpolitik</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/MeeGo-ist-tot-es-lebe-Jolla-1634265.html">Jolla statt Meego?</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://tech.slashdot.org/story/12/07/09/196234/indoor-navigation-on-your-smartphone-using-the-earths-magnetic-field">Indoor Navigation mit dem Erdmagnetfeld</a></li>
-<li><a href="http://www.newsbiscuit.com/2012/06/08/children-warned-name-of-first-pet-should-contain-8-characters-and-a-digit/">Kinder sollen Haustiernamen mit mindestens 8 Zeichen und einer Zahl waehlen</a></li>
-<li><a href="http://m.maps.nokia.com/#action=search&amp;params=%7B%7D&amp;bmk=1">Nokia mobile maps webapp</a></li>
-<li><a href="http://de.wikipedia.org/wiki/Navteq">Nokia hat Navteq gekauft</a></li>
-<li><a href="https://gridspot.com/compute/">Gridspot</a></li>
-<li><a href="internet://InstallESD.dmg">Mac OS Mountain Lion GM</a></li>
-<li><a href="http://apple.slashdot.org/story/12/07/07/2140231/apple-exits-green-hardware-certification-program">Apple verliert "Green Hardware" Certification</a></li>
-<li><a href="http://chronicle.com/article/From-Bench-to-Bunker-/132743/">Von Neuroscience zum Militaerprojekt</a>
-
-<ul>
-<li><a href="http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing/">Binärgewitter Spezial 4</a></li>
-</ul>
-</li>
-<li><a href="http://www.pro-linux.de/news/1/18596/crowdfunding-kickstarter-kommt-nach-europa.html">Kickstarter kommt nach Europa</a></li>
-<li><a href="http://startnext.de">Startnext</a>
-
-<ul>
-<li><a href="http://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console">Ouya - Kickstarter Projekt Spielkonsole mit Android</a></li>
-<li><a href="http://penny-arcade.com/report/editorial-article/the-reality-of-the-ouya-console-doesnt-match-the-hype-why-you-should-be-ske">Penny arcade is gonna hate</a></li>
-</ul>
-</li>
-<li><a href="http://openpandora.org/">openPandora</a></li>
-<li><a href="https://github.com/triAGENS/ArangoDB/wiki">ArangoDB</a></li>
-<li><a href="http://theoatmeal.com/blog/charity_money">Der Typ von The Oatmeal haelt versprechen und macht Foto von 211k Dollars</a></li>
-<li><a href="http://tunlr.net/forums/topic/noob-guide-to-setting-up-tunlr-and-dnsmasq-permanently-on-mac-os-x/">Tunlr + DNSmasq howto</a></li>
-<li><a href="http://www.pro-linux.de/news/1/18582/mozilla-faehrt-thunderbird-engagement-zurueck.html">Mozilla Thunderbird</a></li>
-<li>Kmail</li>
-<li>Claws-Mail</li>
-<li><a href="http://de.wikipedia.org/wiki/Mulberry_%28Software%29">Mulberry</a></li>
-</ul>
-
-
-<h2>Studiosetup</h2>
-
-<ul>
-<li><a href="http://www.thomann.de/de/rme_digi_9632_hdsp_pcikarte.htm">RME HDSP 9632</a></li>
-<li><a href="http://www.amazon.de/gp/product/B005OKCN0G/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B005OKCN0G&amp;linkCode=as2&amp;tag=trektrip">PicoPSU</a></li>
-<li><a href="https://de.wikipedia.org/wiki/Alesis_Digital_Audio_Tape">ADAT</a>
-
-<ul>
-<li><a href="i0.kym-cdn.com/entries/icons/original/000/000/727/DenshaDeD_ch01p16-17.png">Multi-Track Drifting</a></li>
-</ul>
-</li>
-<li><a href="http://ardour.org/">Ardour</a></li>
-<li><a href="http://jackaudio.org/">Jack</a></li>
-<li><a href="http://ladish.org/">Ladish</a></li>
-<li><a href="http://opensoundcontrol.org/">OpenSoundControl</a></li>
-<li><a href="http://puredata.info/">PureData</a></li>
-<li><a href="https://github.com/Binaergewitter/serious-bg">Blerg</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://www.aosabook.org/en/nginx.html">NginX Architecture overview</a>  (Marc)</li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li><a href="wtf://lol">C++</a> (Marc)</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="https://lh5.googleusercontent.com/-zkz8G_CUnvE/T_7tBMbrhEI/AAAAAAAAIn4/g0_c6hlBoCA/s735/Pancake.jpeg">Pancake Kissen</a></li>
-<li><a href="http://knowyourmeme.com/memes/flipping-tables-%E2%95%AF%E2%96%A1%EF%BC%89%E2%95%AF%EF%B8%B5-%E2%94%BB%E2%94%81%E2%94%BB">Table Flipping</a>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=REYwafK2uKE">Table Flipping Game</a></li>
-<li><a href="http://www.youtube.com/watch?v=Jx9A5fNQ8SQ">2010 World Flipping a table over in anger Tournament</a></li>
-</ul>
-</li>
-<li><a href="https://www.moovel.com">moovel</a>  (Marc)</li>
-<li><a href="https://bbs.archlinux.org/viewtopic.php?id=77388">stapler</a>(ingo)</li>
-<li><a href="http://bootswatch.com/">Bootswatch</a></li>
-<li><a href="http://www.fsarchiver.org">fsarchiver</a></li>
-<li><a href="https://tahoe-lafs.org/trac/tahoe-lafs">tahoe-lafs</a></li>
-<li><a href="http://docs.python.org/library/mailbox.html">Mailbox for Python</a></li>
 </ul>
 
 ]]></content>
