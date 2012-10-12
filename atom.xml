@@ -4,7 +4,7 @@
   <title><![CDATA[Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2012-10-05T15:18:19+02:00</updated>
+  <updated>2012-10-12T10:47:39+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,130 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #28 - Kindle Whitepaper]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2012/10/12/binaergewitter-talk-number-28-kindle-whitepaper/"/>
+    <updated>2012-10-12T11:30:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2012/10/12/binaergewitter-talk-number-28-kindle-whitepaper</id>
+    <content type="html"><![CDATA[<p>Diesmal etwas kürzer als gewohnt, aber nicht weniger witzig oder informativ. Wir reden über Pokemons, Owncloud 4.5 und UFOs&#8230;.</p>
+
+<h2>Blast from the Past</h2>
+
+<ul>
+<li><a href="http://arstechnica.com/tech-policy/2012/10/i-am-calling-you-from-windows-a-tech-support-scammer-dials-ars-technica/">I am calling you from Windows</a></li>
+</ul>
+
+
+<h2>Kategorie der Woche</h2>
+
+<h3>Nerd der Woche</h3>
+
+<ul>
+<li><a href="http://entertainment.slashdot.org/story/12/10/08/1249240/student-publishes-extensive-statistics-on-the-population-of-middle-earth">Student publiziert Statistiken ueber Mittelerde</a></li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.bbc.co.uk/news/world-us-canada-19879379">Typ sirbt nach Kakalaken Contest</a></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=yWLClUwAHGc">Sim City</a> (marc)</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://arstechnica.com/security/2012/10/mcafee-trust-guard-certifications-can-make-websites-less-safe/">Trust Guard certifications can make websites less safe</a></li>
+<li><a href="http://features.peta.org/pokemon-black-and-white-parody/">Petamon</a> (marc)</li>
+<li><a href="https://github.com/pagespeed/ngx_pagespeed">nginx version of mod_pagespeed</a> (marc)</li>
+<li><a href="https://owncloud.com/blog/another-great-community-effort-meet-owncloud-4-5">Owncloud 4.5</a></li>
+<li><a href="http://news.cnet.com/8301-1035_3-57526994-94/android-users-outraged-over-motorolas-broken-promise/">Motorolla Android updates&#8230; not</a></li>
+<li><a href="http://mashable.com/2012/10/02/ew-has-smartphone-inside/">Entertainment weekly smartphone foo</a> (marc)</li>
+<li><a href="https://www.edis.at/en/server/colocation/austria/raspberrypi/">RPi Colocation</a></li>
+<li><a href="http://www.boredpanda.org/famous-old-photographs-restored-in-color/">Famous Old Photographs Restored in Color</a>
+
+<ul>
+<li><a href="http://www.huffingtonpost.com/bianca-bosker/normalize-instagram-app_b_1812556.html">Normalize Instagram undo</a></li>
+</ul>
+</li>
+<li><a href="http://www.extremetech.com/extreme/137505-us-air-forces-1950s-supersonic-flying-saucer-declassified">UFOs von der US Air Force deklassifiziert</a></li>
+<li><a href="http://www.amazon.de/gp/product/B007OZO03M/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007OZO03M&amp;linkCode=as2&amp;tag=trektrip">Kindle Paperwhite</a></li>
+<li><a href="http://androidheadlines.com/2012/10/featured-in-2011-more-money-at-apple-and-google-went-towards-patents-than-rd.html">In 2011, More Money At Apple And Google Went Towards Patents Than R&amp;D</a></li>
+<li><a href="https://github.com/iamultra/xmppmitm">XMPPMITM</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://webplatform.org">WebPlatform</a> (pfleidi)
+
+<ul>
+<li><a href="http://paulirish.com/2012/why-im-so-excited-about-web-platform-docs/">Blog Post von Paul Irish</a></li>
+</ul>
+</li>
+<li><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=mWtJwlv7TtU">How we test Acquia Cloud</a> (marc)</li>
+<li><a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.6.8122">Consistency maintenance in peer-to-peer file sharing networks</a> (pfleidi)</li>
+<li><a href="http://www.businessweek.com/articles/2012-10-08/the-only-earthling-with-a-facebook-dislike-button">Facebook Release Engineer Interview</a> (marc)</li>
+<li><a href="http://www.phptherightway.com/">PHP the right way</a></li>
+<li><a href="http://ikaisays.com/2012/10/04/clearing-up-some-things-about-linkedin-mobiles-move-from-rails-to-node-js/">Linkedin&#8217;s move from rails to node</a> (marc)</li>
+<li><a href="http://pulse.sportngin.com/news_article/show/153460">Load testing mit em-proxy</a> (marc)</li>
+<li><a href="http://en.wikipedia.org/wiki/ReDoS">ReDos - Regex Denial of Service</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>MacBook Pro black screen</li>
+<li>FUCKING SCHEISS HP DRUCKER
+
+<ul>
+<li>Idee für progressive rock band: &#8220;Paper Jam&#8221;</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.rockbox.org/">Rockbox Firmware</a>
+
+<ul>
+<li><a href="http://www.rockbox.org/wiki/SoundCodecs">SoundCodec in Rockbox</a></li>
+</ul>
+</li>
+<li><a href="https://twitter.com/morgonfreeman">@MorgonFreeman</a>
+
+<ul>
+<li>dagegen (marc)</li>
+</ul>
+</li>
+<li><a href="">Hoaxilla mit Vorspann hinten</a></li>
+<li><a href="http://www.audioponies.de/">Die Strömung</a></li>
+<li><a href="https://www.amazon.de/dp/B001BWQTOC/ref=as_li_ss_til?tag=pfleidi-21">Gum Pro</a> (pfleidi)</li>
+<li><a href="https://www.youtube.com/watch?v=4dKwHOfd2dk&amp;feature=player_embedded">Bottle beware!</a></li>
+<li><a href="https://www.amazon.de/dp/B001AX8QUM/ref=as_li_ss_til?tag=pfleidi-21">Funk Steckdosen</a> (pfleidi)</li>
+<li><a href="http://www.amazon.de/gp/product/B000PJ56E6/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B000PJ56E6&amp;linkCode=as2&amp;tag=trektrip">Sodastream Pinguin</a></li>
+<li><a href="http://www.youtube.com/user/EvolutionDocumentary">Evolution Documentary</a> (pfleidi)
+
+<ul>
+<li><a href="https://github.com/rb2k/viddl-rb">viddl-rb</a></li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #27 - Open Apache Graveyard]]></title>
@@ -3067,233 +3191,6 @@ Kilimanjaro</a></li>
 <li><a href="http://twitpic.com/97vogu">ZOMG TITANIC</a></li>
 </ul>
 </li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #9 - Hypertext-Marx-Up Bonusfeatures]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/04/05/binaergewitter-talk-number-9-hypertext-marx-up-bonusfeatures/"/>
-    <updated>2012-04-05T12:00:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/04/05/binaergewitter-talk-number-9-hypertext-marx-up-bonusfeatures</id>
-    <content type="html"><![CDATA[<p>Die Erleuchtung ereilt uns diesmal, denn alles geht kaputt. Die Knalltüten reden diesmal vorallem über tolle Aprilscherze und Clientseitiger Webentwicklung.</p>
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://www.maerkischeallgemeine.de/cms/beitrag/12305289/61469/Weide-steht-nicht-unter-besonderem-Schutz-Mein-Freund.html">mein Freund, der Baum, ist tot</a>
-
-<ul>
-<li><a href="http://www.myvideo.de/watch/6641317/Alexandra_Mein_Freund_der_Baum">Komisches Video zum toten Baum</a></li>
-</ul>
-</li>
-<li><a href="http://nachrichten.t-online.de/tote-fische-nach-panne-in-biogasanlage/id_55299528/index?news">Tote Fische bei Biogasanlage</a></li>
-<li><a href="http://musiktipps24.com/dsds-2012-goodbye-dieter-bohlen-das-format-ist-tot/">DSDS 2012 gestorben</a>
-
-<h2>1. April Scherze</h2></li>
-<li><a href="https://twitter.com/#!/seaninsound/status/186395193031917568/photo/1">Ikea ruft Werkzeug zurück</a></li>
-<li><a href="http://google-au.blogspot.de/2012/04/google-street-roo-exploring-outback-one.html">Google Street Roo</a> - EPIC :)</li>
-<li><a href="http://www.google.com/js/reallyadvanced.html">Google really advanced search</a></li>
-<li><a href="http://www.google.com/racing/">Google Racing</a></li>
-<li><a href="http://www.heise.de/tp/artikel/36/36415/1.html">Heise: DDR Bürger sollen für Westfernsehen nachzahlen</a></li>
-<li><a href="https://skitch.com/pfleidi/8q597/kodak-digital-cameras-printers-digital-video-cameras-and-more">Kodak: Print your own kittens</a></li>
-<li><a href="https://skitch.com/pfleidi/8qhnj/javascript-knockout.js-vs-backbone.js-vs-stack-overflow">Stackoverflow mit Clippy-Unicorn</a></li>
-<li><a href="http://blog.backblaze.com/2012/04/01/the-real-story-behind-how-backblaze-can-afford-unlimited-storage-for-5month/">The real story behind backblaze unlimited storage</a></li>
-<li><a href="http://www.tagesschau.de/inland/fdpgala100.html">Spendengala für die FDP</a></li>
-<li><a href="http://us.blizzard.com/en-us/games/blizzkidzz/">Blizzard Educational Games</a></li>
-<li><a href="http://1000words.kodak.com/thousandwords/post/?ID=5558724772984513411">Kodak LivePrint</a></li>
-<li><a href="http://xkcd.com/1037/">XKCD &#8216;Umwelt&#8217;</a></li>
-<li><a href="http://www.youtube.com/watch?v=7NufHsmITjM">Assassins Creed fuer Kinect</a></li>
-<li><a href="http://www.theregister.co.uk/2012/04/01/apple_patent/">Apple patentiert das Quadrat</a></li>
-<li><a href="http://gmailblog.blogspot.de/2012/03/introducing-gmail-tap.html">Gmail Tap</a></li>
-<li><a href="http://www.google.com/intl/en/chrome/multitask.html">Chrome Multitask Mode</a></li>
-<li><a href="https://bitbucket.org/spooning/">Spooning</a></li>
-<li><a href="http://www.mapstd.com/">Google Maps Tower Defense</a></li>
-<li><a href="http://aprilfoolsdayontheweb.com/2012.html">April Fools&#8217; Day of the Web 2012</a></li>
-<li><a href="http://en.wikipedia.org/wiki/April_Fools%27_Day_Request_for_Comments#List_of_April_1st_RFCs">1. April RFCs</a>
-
-<h2>lol der Woche</h2></li>
-<li><a href="http://www.javaworld.com/javaworld/jw-03-2012/120315-oracle-s-java-roadmap.html">Java 9 und 10 sind in Planung</a></li>
-<li>JDK 9 arriving in 2015, JDK 10 in 2017, JDK 11 in 2019, and JDK 12 in 2021
-
-<h2>News</h2></li>
-<li><a href="http://puma.io/">Puma veröffentlicht</a> (Marc)</li>
-<li><a href="http://homakov.blogspot.ca/2012/03/hacking-skrillformer-moneybookers.html">Egor on a rampage</a> (Marc)</li>
-<li><a href="http://www.kickstarter.com/projects/1451923705/make-leisure-suit-larry-come-again">Leisure suit Larry remake</a> (Marc)</li>
-<li><a href="https://github.com/blog/1081-instantly-beautiful-project-pages">Github Pages 2.0</a></li>
-<li><a href="http://speakerdeck.com/u/jnewland/p/github-pages-on-riak-and-webmachine">Github Pages 2.0 setzt auf Erlang, Riak und Webmachine</a></li>
-<li><a href="http://speakerdeck.com/u/sfalcon/p/how-to-migrate-a-web-app-to-erlang-change-databases-and-not-have-your-customers-notice">Chef geht auf Erlang</a></li>
-<li><a href="http://www.kotzendes-einhorn.de/blog/2012-04/wie-heist-eigentlich-batman-auf-schwedisch/">Läderlappen</a></li>
-<li><a href="http://www.golem.de/news/linux-tycoon-distro-simulator-im-retrolook-1204-90925.html">Linux Tycoon</a> (kein Aprilscherz)
-
-<ul>
-<li><a href="http://lunduke.com/?p=2273">Ja, der Bryan Lunduke</a></li>
-</ul>
-</li>
-<li><a href="http://www.genderremixer.com/html5/#">Genderremixer</a> (Marc)</li>
-<li><a href="http://apple.slashdot.org/story/12/04/02/123207/apple-is-forced-by-eu-to-give-2-years-warranty-on-all-its-products">Apple is forced by EU to give 2 years of warrany</a></li>
-<li><a href="http://www.theregister.co.uk/2012/04/04/google_recaptcha_street_view/">Google Recaptcha</a></li>
-<li><a href="http://hacks.mozilla.org/2012/04/porting-me-my-shadow-to-the-web-c-to-javascriptcanvas-via-emscripten/">Mozilla kompiliert Games</a>
-
-<h2>Themen</h2></li>
-<li>US Mobilfunkprovider (Marc)
-
-<ul>
-<li><a href="http://goredpocket.com/">Red Pocket</a> (meins)</li>
-<li><a href="http://www.joltmobile.com/">Jolt Wireless</a></li>
-<li><a href="http://h2owirelessnow.com/">H2O Wireless</a></li>
-<li><a href="http://bit.ly/H87zZw">Callingmart</a></li>
-</ul>
-</li>
-<li>US Kompatible Kreditkarten
-
-<ul>
-<li><a href="http://www.dkb.de/">DKB Bank</a></li>
-<li><a href="http://www.dab-bank.de/">DAB Bank</a></li>
-</ul>
-</li>
-<li><a href="http://www.currencyfair.com/">Currencyfair</a>
-
-<h3>Webentwicklung Teil 2</h3></li>
-<li>JavaScript
-
-<ul>
-<li><a href="http://www.amazon.de/gp/product/0596517742/ref=as_li_ss_tl?ie=UTF8&amp;tag=retinacast-21">JavaScript - the good parts</a></li>
-<li><a href="http://javascript.crockford.com/">Douglas Crockford</a></li>
-<li><a href="http://dailyjs.com/">DailyJS</a></li>
-<li><a href="http://javascriptweekly.com/">JavaScript Weekly</a></li>
-<li><a href="https://developer.mozilla.org/en/JavaScript">Mozilla MDN Reference</a></li>
-<li><a href="http://bonsaiden.github.com/JavaScript-Garden/">JavaScript Garden</a></li>
-<li><a href="http://shichuan.github.com/javascript-patterns/">JS Pattern and Antipattern Collection</a></li>
-<li><a href="http://addyosmani.com/largescalejavascript/">Patterns for lage scale JS applications</a></li>
-<li><a href="http://eloquentjavascript.net/contents.html">Elequent JavaScript</a></li>
-</ul>
-</li>
-<li>Frameworks JS
-
-<ul>
-<li><a href="http://jquery.org/">jQuery</a></li>
-<li><a href="http://dojotoolkit.org/">Dojo</a></li>
-<li><a href="http://zeptojs.com/">Zepto.js</a></li>
-<li><a href="http://ender.no.de/">Ender.js</a></li>
-<li><a href="http://knockoutjs.com/">Knockout.js</a></li>
-<li><a href="http://backbonejs.org/">Backbone.js</a></li>
-<li><a href="http://stackoverflow.com/questions/5112899/knockout-js-vs-backbone-js-vs">Knockout vs. Backbone</a></li>
-<li><a href="http://socket.io/">Socket.io</a></li>
-</ul>
-</li>
-<li>REST-full native Client Applications
-
-<ul>
-<li>es muss nicht immer HTML+Javascript sein</li>
-</ul>
-</li>
-<li>Testen mit JS
-
-<ul>
-<li><a href="http://www.phantomjs.org/">PhantomJS</a></li>
-<li><a href="http://casperjs.org/">CasperJS</a></li>
-<li><a href="http://zombie.labnotes.org/">Zombie.js</a></li>
-</ul>
-</li>
-<li>HTML 5
-
-<ul>
-<li><a href="https://developer.mozilla.org/En/HTML/Element/Video">Audio/Video Tags</a></li>
-<li>Canvas</li>
-<li>WebGL</li>
-<li>SVG</li>
-<li>WebSockets</li>
-<li>LocalStorage</li>
-<li>PushState</li>
-<li><a href="http://html5please.com/">HTML5 Please</a></li>
-<li><a href="http://www.html5rocks.com/">HTML5 rocks</a></li>
-<li><a href="http://html5weekly.com/">HTML5 weekly</a></li>
-</ul>
-</li>
-<li>Frameworks CSS
-
-<ul>
-<li>Twitter Bootstrap</li>
-<li>960 Grid</li>
-<li><a href="http://sass-lang.com/">SCC/SASS</a></li>
-<li><a href="http://fuelyourcoding.com/35-great-resources-for-compass-and-sass/">Ressources for SASS/Compass</a>
--Debugging</li>
-<li><a href="http://westciv.com/mri/">MRI Bookmarklet</a></li>
-<li><a href="https://chrome.google.com/webstore/detail/gbammbheopgpmaagmckhpjbfgdfkpadb">XPath Helper</a></li>
-</ul>
-</li>
-<li>Hosting
-
-<ul>
-<li>Selbst Hosten
-
-<ul>
-<li>&#8220;Eigentlich kannst du alles kaputtmachen&#8230;&#8221;</li>
-<li><a href="http://www.isgenug.de/">isgenug</a></li>
-</ul>
-</li>
-<li><a href="http://www.heroku.com/">Heroku</a></li>
-<li><a href="http://pages.github.com/">Github Pages</a></li>
-<li><a href="http://www.engineyard.com/">Engineyard</a></li>
-<li><a href="http://www.webfaction.com/">Webfaction</a></li>
-<li><a href="http://aws.amazon.com/">Amazon Web Servies</a>
-
-<ul>
-<li>S3
-
-<ul>
-<li><a href="http://www.dragondisk.com/">Dragondisk</a></li>
-</ul>
-</li>
-<li>EC2</li>
-</ul>
-</li>
-<li><a href="https://www.jiffybox.de/">Jiffybox</a></li>
-<li><a href="http://cloudflare.com">Cloudflare</a></li>
-<li>Google App Engine</li>
-<li><a href="http://uberspace.de/">Uberspace</a>
-
-<h2>Lesefoo</h2></li>
-</ul>
-</li>
-<li><a href="http://www.thedeveloperscode.com/">The developer&#8217;s code</a>, <a href="http://www.amazon.de/gp/product/1934356794/ref=as_li_ss_tl?ie=UTF8&amp;tag=retinacast-21">Amazon Link</a> (pfleidi)
-
-<ul>
-<li><a href="https://www.amazon.de/dp/020161622X/ref=as_li_ss_til?tag=retinacast-21">The pragmatic programmer</a></li>
-</ul>
-</li>
-<li><a href="http://antirez.com/post/redis-persistence-demystified.html">Redis persistence demistified</a> (marc)</li>
-<li><a href="http://static.nomachetejuggling.com/machete_order.html">Star Wars: Machete Order</a> (pfleidi)</li>
-<li><a href="http://www.toplessrobot.com/2012/04/its_official_star_wars_kinect_is_the_worst_star_wa.php">Star Wars Kinect</a></li>
-<li><a href="http://jlaine.net/2012/1/16/introduction-to-great-coffee">Introduction to great coffee</a> (pfleidi)</li>
-<li><a href="http://blog.notdot.net/2009/11/Damn-Cool-Algorithms-Spatial-indexing-with-Quadtrees-and-Hilbert-Curves">Damn Cool Algorithms: Spatial indexing with Quadtrees and Hilbert Curves</a> (marc)</li>
-<li><a href="http://www.reigndesign.com/blog/love-hotels-and-unicode/">Love hotels and unicode</a> (makefu)
-  -<a href="http://www.joelonsoftware.com/articles/Unicode.html">The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)</a></li>
-<li><a href="http://blogs.msdn.com/b/jw_on_tech/archive/2012/03/13/why-i-left-google.aspx">Why I left Google</a> (pfleidi)</li>
-<li><a href="http://tomblomfield.com/post/20285854071/dont-write-tests-the-hidden-cost-of-tdd">Don&#8217;t write tests</a> (makefu)
-
-<h2>Mimimi der Woche</h2></li>
-<li>3TB Festplatten via USB (ingo)</li>
-<li>NAS ohne Nippel (Marc)
-
-<h2>Picks</h2></li>
-<li><a href="http://linux.fm">linux.fm jetzt auf octopress</a></li>
-<li><a href="http://commitlogsfromlastnight.com/">commit logs from last night</a></li>
-<li><a href="http://uncyclopedia.wikia.com/wiki/Pac-Man_%28walkthrough%29">Pac-Man Walkthrough</a></li>
-<li><a href="http://rubyrogues.com/">Ruby Rogues Podcast</a> (pfleidi)
-
-<ul>
-<li><a href="http://davidbradypickmachine.com/">Ruby Rogues Picks</a> (pfleidi)</li>
-</ul>
-</li>
-<li><a href="http://www.speakerdeck.com/">Speakerdeck</a> (marc)</li>
-<li><a href="http://hardware.slashdot.org/story/12/03/31/1914217/software-defined-radio-for-11">Software Defined Radio fuer $11</a></li>
-<li><a href="http://augeas.net/">augeas, config-files als AST</a></li>
-<li><a href="https://github.com/bronson/vim-trailing-whitespace">vim-trailing-whitespace</a> (pfleidi)</li>
-<li><a href="http://hackaday.com/2012/03/31/floppy-autoloader-takes-the-pain-out-of-archiving-5000-amiga-disks/">Floppy autoloader</a></li>
-<li><a href="https://help.ubuntu.com/community/UFW">ufw</a> (pfleidi)</li>
 </ul>
 
 ]]></content>
