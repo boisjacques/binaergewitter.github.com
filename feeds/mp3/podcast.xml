@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 12 Oct 2012 10:49:28 +0200</lastBuildDate>
-    <atom:updated>2012-10-12T10:49:28+02:00</atom:updated>
+    <lastBuildDate>Fri, 12 Oct 2012 12:20:33 +0200</lastBuildDate>
+    <atom:updated>2012-10-12T12:20:33+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -202,12 +202,12 @@
       
       
       
-      <enclosure url="http://download.binaergewitter.de/2012-10-11.Binaergewitter.Talk.28.ogg"
-        length="50782224"
-        type="audio/ogg" />
-      <media:content url="http://download.binaergewitter.de/2012-10-11.Binaergewitter.Talk.28.ogg"
-        fileSize="50782224"
-        type="audio/ogg" />
+      <enclosure url="http://download.binaergewitter.de/2012-10-11.Binaergewitter.Talk.28.mp3"
+        length="59318060"
+        type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2012-10-11.Binaergewitter.Talk.28.mp3"
+        fileSize="59318060"
+        type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Talk #28 - Kindle Whitepaper</itunes:subtitle>
       <itunes:summary>
