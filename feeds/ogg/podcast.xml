@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 19 Oct 2012 12:08:57 +0200</lastBuildDate>
-    <atom:updated>2012-10-19T12:08:57+02:00</atom:updated>
+    <lastBuildDate>Fri, 19 Oct 2012 12:12:20 +0200</lastBuildDate>
+    <atom:updated>2012-10-19T12:12:20+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -114,10 +114,10 @@
 
 <ul>
 <li><a href="http://arstechnica.com/security/2012/10/steam-vulnerability-can-lead-to-remote-insertion-of-malicious-code/">Durch die installierte Steam App geowned</a></li>
-<li><a href="http://arstechnica.com/science/2012/10/contact-lens-solution-hosts-giant-virus-ecosystem-of-parasites/">Gigantischer Virus in Kontaktlinsenfluessigkeit gefunden</a></li>
+<li><a href="http://arstechnica.com/science/2012/10/contact-lens-solution-hosts-giant-virus-ecosystem-of-parasites/">Gigantischer Virus in Kontaktlinsenflüssigkeit gefunden</a></li>
 <li><a href="http://www.golem.de/news/origin-massenhaft-kostenlose-downloads-durch-key-panne-1210-95089.html">Kostenlose Spiele bei Origin</a></li>
 <li><a href="http://www.raspberrypi.org/archives/2180">Raspberry Pie bekommt mehr RAM</a></li>
-<li>[Apple wirft Geld auf schweizer Bahn um das Uhrdesign nutzen zu dürfen ( http://arstechnica.com/apple/2012/10/apple-puts-money-where-its-mouth-is-pays-for-swiss-railway-clock-design )</li>
+<li><a href="http://arstechnica.com/apple/2012/10/apple-puts-money-where-its-mouth-is-pays-for-swiss-railway-clock-design">Apple wirft Geld auf schweizer Bahn um das Uhrdesign nutzen zu dürfen</a></li>
 <li><a href="http://torrentfreak.cjom/3d-printer-drm-patent-to-stop-people-downloading-a-car-121012/">3D Printer DRM Patente damit die Leute keine Autos mehr downloaden</a></li>
 <li><a href="https://epetitionen.bundestag.de/petitionen/_2012/_08/_28/Petition_35441.html">epetition gegen die GEMA-Vermutung</a></li>
 <li><a href="http://c3s.cc/">Creative Commons Verwertungsgesellschaft</a></li>
@@ -148,7 +148,7 @@
 </ul>
 </li>
 <li><a href="http://www.golem.de/news/whispercast-for-kindle-jedem-schueler-das-gleiche-schul-e-book-1210-95147.html">Kindle Whispercast</a></li>
-<li><a href="http://www.amazon.de/gp/help/customer/display.html/?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;linkCode=ur2&amp;nodeId=200935230&amp;site-redirect=de&amp;tag=jitcreat-21">Amazon Cloudplayer</a>
+<li><a href="http://www.amazon.de/gp/help/customer/display.html/?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;linkCode=ur2&amp;nodeId=200935230&amp;site-redirect=de&amp;tag=trektrip">Amazon Cloudplayer</a>
 
 <ul>
 <li><a href="http://www.amazon.de/gp/product/B005VYHQ7U/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B005VYHQ7U&amp;linkCode=as2&amp;tag=trektrip">Hörspiel Mark Brandis Alarm für die Erde</a></li>
@@ -245,10 +245,10 @@ News
 
 
 Durch die installierte Steam App geowned
-Gigantischer Virus in Kontaktlinsenfluessigkeit gefunden
+Gigantischer Virus in Kontaktlinsenflüssigkeit gefunden
 Kostenlose Spiele bei Origin
 Raspberry Pie bekommt mehr RAM
-[Apple wirft Geld auf schweizer Bahn um das Uhrdesign nutzen zu dürfen ( http://arstechnica.com/apple/2012/10/apple-puts-money-where-its-mouth-is-pays-for-swiss-railway-clock-design )
+Apple wirft Geld auf schweizer Bahn um das Uhrdesign nutzen zu dürfen
 3D Printer DRM Patente damit die Leute keine Autos mehr downloaden
 epetition gegen die GEMA-Vermutung
 Creative Commons Verwertungsgesellschaft
