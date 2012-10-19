@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 12 Oct 2012 16:07:40 +0200</lastBuildDate>
-    <atom:updated>2012-10-12T16:07:40+02:00</atom:updated>
+    <lastBuildDate>Fri, 19 Oct 2012 12:08:57 +0200</lastBuildDate>
+    <atom:updated>2012-10-19T12:08:57+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,288 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #29 - Alarm für CORBA 11</title>
+      <link>http://blog.binaergewitter.de/blog/2012/10/19/binaergewitter-talk-number-29-alarm-fuer-corba-11/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/10/19/binaergewitter-talk-number-29-alarm-fuer-corba-11/#comments</comments>
+      <pubDate>Fri, 19 Oct 2012 12:30:00 +0200</pubDate>
+      <atom:updated>2012-10-19T12:30:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F10%2F19%2Fbinaergewitter-talk-number-29-alarm-fuer-corba-11%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2329%20-%20Alarm%20f%C3%BCr%20CORBA%2011&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/10/19/binaergewitter-talk-number-29-alarm-fuer-corba-11</guid>
+      
+      <description>
+        <![CDATA[<p>Auch giftige Kontaktlinsenflüssigkeit hält uns nicht davon ab euch auch diesmal unsere Weisheiten des Lebens zu präsentieren, damit dies gelingt gründen wir eine Selbsthilfegruppe...</p>
+
+<h2>Kategorie des Lebens</h2>
+
+<ul>
+<li><a href="http://arstechnica.com/security/2012/10/solar-panel-control-systems-vulnerable-to-hacks/">Man kann alles kaputt machen - Heute: Solar Panel Kontrollsysteme</a>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/SCADA">SCADA</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://blog.echofon.com/2012/10/changes-coming-for-echofon-desktop-users.html">echofon</a> via @t1m0_o</li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.pro-linux.de/news/1/19012/apache-software-foundation-graduiert-openoffice.html">OpenOffice offiziell Apache Top Level Projekt</a> aka "Die Zombies vom Open Apache Graveyard"</li>
+<li><a href="http://www.pro-linux.de/news/1/19011/webos-als-live-system-vorgestellt.html">WTF WebOS Dektop Live-System</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://arstechnica.com/security/2012/10/steam-vulnerability-can-lead-to-remote-insertion-of-malicious-code/">Durch die installierte Steam App geowned</a></li>
+<li><a href="http://arstechnica.com/science/2012/10/contact-lens-solution-hosts-giant-virus-ecosystem-of-parasites/">Gigantischer Virus in Kontaktlinsenfluessigkeit gefunden</a></li>
+<li><a href="http://www.golem.de/news/origin-massenhaft-kostenlose-downloads-durch-key-panne-1210-95089.html">Kostenlose Spiele bei Origin</a></li>
+<li><a href="http://www.raspberrypi.org/archives/2180">Raspberry Pie bekommt mehr RAM</a></li>
+<li>[Apple wirft Geld auf schweizer Bahn um das Uhrdesign nutzen zu dürfen ( http://arstechnica.com/apple/2012/10/apple-puts-money-where-its-mouth-is-pays-for-swiss-railway-clock-design )</li>
+<li><a href="http://torrentfreak.cjom/3d-printer-drm-patent-to-stop-people-downloading-a-car-121012/">3D Printer DRM Patente damit die Leute keine Autos mehr downloaden</a></li>
+<li><a href="https://epetitionen.bundestag.de/petitionen/_2012/_08/_28/Petition_35441.html">epetition gegen die GEMA-Vermutung</a></li>
+<li><a href="http://c3s.cc/">Creative Commons Verwertungsgesellschaft</a></li>
+<li><a href="http://www.golem.de/news/razzia-vorbeugung-pirate-bay-entschwebt-in-die-cloud-1210-95157.html">The pirate bay zieht in die cloud</a></li>
+<li><a href="https://www.dropbox.com/spacerace">Dropbox Spacerace</a></li>
+<li><a href="http://www.pro-linux.de/news/1/19006/mediacenter-distribution-openelec-20-erschienen.html">openelec 2.0</a>
+
+<ul>
+<li>VLC mit Opus</li>
+<li><a href="http://en.wikipedia.org/wiki/VC-1">Wiki VC-1</a></li>
+</ul>
+</li>
+<li><a href="http://www.google.com/about/datacenters/gallery/#/">Google Datacenters</a>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?feature=player_embedded&amp;v=avP5d16wEp0">Explore a Google data center with Street View</a></li>
+<li><a href="http://www.google.com/about/datacenters/inside/streetview/">Datacenter Street view</a></li>
+<li><a href="http://twitter.com/pfleidi/status/259002769271296000/photo/1">Stormtrooper im Datacenter</a></li>
+</ul>
+</li>
+<li><a href="https://www.google.com/search?q=conways+game+of+life">Googles Conways game of life</a></li>
+<li><a href="https://www.humblebundle.com/">Humble eBook Bundle - jetzt mit XKCD V0</a></li>
+<li><a href="http://www.golem.de/news/nightly-builds-firefox-mit-webrtc-1210-95086.html">Firefox nightly bekommt WebRTC</a>
+
+<ul>
+<li><a href="http://www.webrtc.org/reference/architecture">WebRTC Architektur</a></li>
+<li><a href="http://www.w3.org/TR/webrtc/">WebRTC Spec</a></li>
+</ul>
+</li>
+<li><a href="http://www.golem.de/news/whispercast-for-kindle-jedem-schueler-das-gleiche-schul-e-book-1210-95147.html">Kindle Whispercast</a></li>
+<li><a href="http://www.amazon.de/gp/help/customer/display.html/?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;linkCode=ur2&amp;nodeId=200935230&amp;site-redirect=de&amp;tag=jitcreat-21">Amazon Cloudplayer</a>
+
+<ul>
+<li><a href="http://www.amazon.de/gp/product/B005VYHQ7U/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B005VYHQ7U&amp;linkCode=as2&amp;tag=trektrip">Hörspiel Mark Brandis Alarm für die Erde</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://gregable.com/2010/09/why-you-should-know-just-little-awk.html">Everyone should know a little awk</a> (pfleidi)</li>
+<li><a href="https://www.youtube.com/watch?v=r7xnKSPWTjo&amp;feature=player_embedded">Broken promises of HTML5</a></li>
+<li><a href="http://hbr.org/2006/10/sleep-deficit-the-performance-killer">Sleep deficit - the performance killer</a> (pfleidi)</li>
+<li><a href="http://vertstudios.com/blog/new-flask-site/">Converting a simple website to Python Flask</a></li>
+<li><a href="https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do">10 things you didn't know ruby could do</a> (pfleidi)</li>
+<li><a href="https://speakerdeck.com/u/mitsuhiko/p/didntknow">Things you didn't know about Python</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>Backup zeugs
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Comparison_of_online_backup_services">Vergleich von Backup Diensten</a></li>
+<li><a href="http://www.haystacksoftware.com/arq/">Arq</a></li>
+<li><a href="http://www.crashplan.com/">Crashplan</a></li>
+<li><a href="http://www.acronis.de/backup-recovery/smallbusiness.html">Acronis</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://webconverger.org/upgrade/">Linux Distro auf git</a> via @lightonflux</li>
+<li><a href="http://www.youtube.com/watch?v=8DZkpynFhak&amp;feature=player_embedded">Benefits of being a CISSP</a></li>
+<li><a href="http://blog.programmableweb.com/2012/10/17/rise-of-the-spambots-3-apis-for-beating-captchas/">3 APIs For Beating CAPTCHAs</a></li>
+<li><a href="https://www.amazon.de/dp/B003L20HI4/ref=as_li_ss_til?tag=pfleidi-21">Brita Wasserfilter</a> (pfleidi)</li>
+<li><a href="https://www.amazon.de/dp/B0027V9WX6/ref=as_li_ss_til?tag=pfleidi-21">Biomus Glas Karaffe</a> (pfleidi)</li>
+<li><a href="https://github.com/bastinat0r/random-cooking">Random Cooking</a> via @Bastinat0r</li>
+<li><a href="http://www.espressomushroom.co.uk/">Espresso Mushroom Grow Set</a> (pfleidi)</li>
+<li><a href="https://github.com/mojombo/chronic">Chronic Gem</a> (pfleidi)</li>
+<li><a href="http://ubucon.de">Ubucon</a> (ingo)</li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2012-10-18.Binaergewitter.Talk.29.mp3"
+        length="79366274"
+        type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2012-10-18.Binaergewitter.Talk.29.mp3"
+        fileSize="79366274"
+        type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #29 - Alarm für CORBA 11</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Auch giftige Kontaktlinsenflüssigkeit hält uns nicht davon ab euch auch diesmal unsere Weisheiten des Lebens zu präsentieren, damit dies gelingt gründen wir eine Selbsthilfegruppe...
+
+Kategorie des Lebens
+
+
+Man kann alles kaputt machen - Heute: Solar Panel Kontrollsysteme
+
+
+SCADA
+
+
+
+
+
+Toter der Woche
+
+
+echofon via @t1m0_o
+
+
+
+Untoter der Woche
+
+
+OpenOffice offiziell Apache Top Level Projekt aka "Die Zombies vom Open Apache Graveyard"
+WTF WebOS Dektop Live-System
+
+
+
+News
+
+
+Durch die installierte Steam App geowned
+Gigantischer Virus in Kontaktlinsenfluessigkeit gefunden
+Kostenlose Spiele bei Origin
+Raspberry Pie bekommt mehr RAM
+[Apple wirft Geld auf schweizer Bahn um das Uhrdesign nutzen zu dürfen ( http://arstechnica.com/apple/2012/10/apple-puts-money-where-its-mouth-is-pays-for-swiss-railway-clock-design )
+3D Printer DRM Patente damit die Leute keine Autos mehr downloaden
+epetition gegen die GEMA-Vermutung
+Creative Commons Verwertungsgesellschaft
+The pirate bay zieht in die cloud
+Dropbox Spacerace
+openelec 2.0
+
+
+VLC mit Opus
+Wiki VC-1
+
+
+Google Datacenters
+
+
+Explore a Google data center with Street View
+Datacenter Street view
+Stormtrooper im Datacenter
+
+
+Googles Conways game of life
+Humble eBook Bundle - jetzt mit XKCD V0
+Firefox nightly bekommt WebRTC
+
+
+WebRTC Architektur
+WebRTC Spec
+
+
+Kindle Whispercast
+Amazon Cloudplayer
+
+
+Hörspiel Mark Brandis Alarm für die Erde
+
+
+
+
+
+Lesefoo
+
+
+Everyone should know a little awk (pfleidi)
+Broken promises of HTML5
+Sleep deficit - the performance killer (pfleidi)
+Converting a simple website to Python Flask
+10 things you didn't know ruby could do (pfleidi)
+Things you didn't know about Python
+
+
+
+Mimimi der Woche
+
+
+Backup zeugs
+
+
+Vergleich von Backup Diensten
+Arq
+Crashplan
+Acronis
+
+
+
+
+
+Picks
+
+
+Linux Distro auf git via @lightonflux
+Benefits of being a CISSP
+3 APIs For Beating CAPTCHAs
+Brita Wasserfilter (pfleidi)
+Biomus Glas Karaffe (pfleidi)
+Random Cooking via @Bastinat0r
+Espresso Mushroom Grow Set (pfleidi)
+Chronic Gem (pfleidi)
+Ubucon (ingo)
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
