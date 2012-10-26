@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 19 Oct 2012 12:12:20 +0200</lastBuildDate>
-    <atom:updated>2012-10-19T12:12:20+02:00</atom:updated>
+    <lastBuildDate>Fri, 26 Oct 2012 11:37:44 +0200</lastBuildDate>
+    <atom:updated>2012-10-26T11:37:44+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,284 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #30 - Yodafone</title>
+      <link>http://blog.binaergewitter.de/blog/2012/10/26/binaergewitter-talk-number-30-yodafone/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/10/26/binaergewitter-talk-number-30-yodafone/#comments</comments>
+      <pubDate>Fri, 26 Oct 2012 12:30:00 +0200</pubDate>
+      <atom:updated>2012-10-26T12:30:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F10%2F26%2Fbinaergewitter-talk-number-30-yodafone%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2330%20-%20Yodafone&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/10/26/binaergewitter-talk-number-30-yodafone</guid>
+      
+      <description>
+        <![CDATA[<p>Ohne Pfleidi aber mit News, Messen und mehr Graveyards....</p>
+
+<h2>Open Apache Graveyard der Woche</h2>
+
+<ul>
+<li><a href="http://www.pro-linux.de/news/1/19022/cordovaphonegap-wird-top-level-projekt-von-apache.html">aka Phonegap</a></li>
+</ul>
+
+
+<h2>Unterwegs der Woche: Ingo, Felix</h2>
+
+<ul>
+<li><a href="http://ubucon.de">Ubucon</a></li>
+<li><a href="http://www.messe-stuttgart.de/it-business/">IT / Business Messe in Stuttgart</a></li>
+<li>IT-SA Nuernberg</li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="https://fragdenstaat.de/anfrage/erste-durchfuhrungsverordnung-zum-heilpraktikergesetz/">Hitler</a>
+
+<ul>
+<li>[Aufzug] ( simplypix.files.wordpress.com/2010/02/aufzugold.jpg )</li>
+</ul>
+</li>
+<li><a href="http://qype.de">Qype</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://www.bekkelund.net/2012/10/22/outlawed-by-amazon-drm/">Amazon Kindle DRM Fuckup</a></li>
+<li><a href="http://publicaddress.net/onpoint/msds-leaky-servers/">MSD's leaky servers</a> (rb2k)</li>
+<li><a href="http://www.scmagazine.com.au/News/318935,lone-packet-cripples-telco-networks.aspx">SS7 stinkt</a> (rb2k)</li>
+<li><a href="http://www.golem.de/news/desktop-mozilla-arbeitet-an-h-264-unterstuetzung-fuer-firefox-1210-95271.html">Mozilla arbeitet an H.264 Support</a></li>
+<li><a href="http://map.honeynet.org/">HoneyMap</a></li>
+<li><a href="http://anatomyofahoax.tumblr.com/">Anatomy of a Hoax - Sony Nexus X</a></li>
+<li><a href="http://yro.slashdot.org/story/12/10/21/0720241/spammers-using-shortened-gov-urls">Shortened .gov URL</a></li>
+<li><a href="http://www.pro-linux.de/news/1/19027/wayland-und-weston-10-erschienen.html">Wayland und Weston 1.0</a></li>
+<li><a href="http://www.forbes.com/sites/andygreenberg/2012/10/19/darpa-funded-radio-hackrf-aims-to-be-a-300-wireless-swiss-army-knife-for-hackers/">HackRF</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/PlayStation-3-angeblich-final-gehackt-1736203.html">Playstation Final Hack</a>
+
+<ul>
+<li><a href="http://www.tortuga-cove.com/forums/viewtopic.php?t=3636&amp;p=8516#p8516">Rogero CEX-4.21</a></li>
+<li><a href="http://pastie.org/private/bevpt5jf9kdjg3vrrv05w">Scene Drama + LV0 Keys</a></li>
+</ul>
+</li>
+<li><a href="http://hardware.slashdot.org/story/12/10/22/1757207/samsung-terminates-lcd-contract-with-apple">Samsung beendet LCD Vertrag mit Apple</a></li>
+<li><a href="http://science.slashdot.org/story/12/10/22/1634219/scientists-who-failed-to-warn-of-quake-found-guilty-of-manslaughter">Wissenschaftler schuldig des Todschlags wg. falscher Erdbeben Prognose</a></li>
+<li><a href="http://tech.slashdot.org/story/12/10/24/1341232/boeings-champ-missile-uses-radio-waves-to-remotely-disable-pcs">Boeing verschiesst Radiowellen um deinen computer zu ownen</a>
+
+<ul>
+<li><a href="yro.slashdot.org/story/12/10/24/2226209/facebook-patents-pokes-per-minute-limits">Facebook patentiert </a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/security/2012/10/cisco-machine-gets-listed-by-blackhat-org-that-rents-out-hacked-pcs/">Miet dir deine Cisco Box</a></li>
+<li><a href="http://hardware.slashdot.org/story/12/10/23/2342201/arm-code-for-raspberry-pi-goes-open-source-video">Raspberry Pis ARM Kernel wird OSS</a></li>
+<li><a href="http://arstechnica.com/information-technology/2012/10/amazon-web-services-outage-once-again-shows-reality-behind-the-cloud/">Die Cloud doch nicht so "wolkig"</a>
+
+<ul>
+<li><a href="http://news.ycombinator.net/item?id=4687184">Joyent meint, dass sie viel cooler sind</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://yuzhikov.com/articles/BlurredImagesRestoration1.htm">Blurred image restauration</a> (rb2k)</li>
+<li><a href="http://rookiemag.com/2012/10/ira-glass-balloon-animals/">Ira Glass baloon animals</a> (rb2k)</li>
+<li><a href="http://blog.headius.com/2012/10/so-you-want-to-optimize-ruby.html">So you want to optimize Ruby</a> (rb2k)
+
+<ul>
+<li><a href="http://forums.bukkit.org/threads/optimize-java-for-minecraft-in-a-extreme-way-p-need-feedback-thx-i-am-back.25994/">So you want to optimize Java</a></li>
+</ul>
+</li>
+<li><a href="http://lwn.net/Articles/518329/">How Linux 3.6 almost broke Postgres</a></li>
+<li><a href="http://j00ru.vexillium.org/?p=1272">The USB Stick of Death</a></li>
+<li><a href="http://news.ycombinator.net/item?id=4682545">Automatic Generation of Regular Expressions</a>
+
+<ul>
+<li>Für mehr Regulären Expressionismus im Louvre</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>Bongstar VDSL Einrichtung auf der Fritzbox</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://qipu.de">qipu</a></li>
+<li><a href="http://www.bindshell.net/tools/beef.html">Beef</a></li>
+<li><a href="http://www.ebaumsworld.com/flash/play/80986704/">CS 1.6 sounds</a></li>
+<li><a href="http://userdatamanifesto.org/">User Data Manifestio</a> (Ingo)
+
+<ul>
+<li><a href="http://www.psychologytoday.com/blog/psychologist-the-movies/201111/relationship-violence-in-twilight">How “Twilight” teaches teens to love abusive relationships</a></li>
+</ul>
+</li>
+<li><a href="http://theprofoundprogrammer.com/">The Profound programmer</a></li>
+<li><a href="i.imgur.com/7OTTZ.jpg">Cocktails mixen</a></li>
+<li><a href="http://moviesascode.net/">Movies as Code</a> via daswort</li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2012-10-25.Binaergewitter.Talk.30.ogg"
+        length="76531048"
+        type="audio/ogg" />
+      <media:content url="http://download.binaergewitter.de/2012-10-25.Binaergewitter.Talk.30.ogg"
+        fileSize="76531048"
+        type="audio/ogg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #30 - Yodafone</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Ohne Pfleidi aber mit News, Messen und mehr Graveyards....
+
+Open Apache Graveyard der Woche
+
+
+aka Phonegap
+
+
+
+Unterwegs der Woche: Ingo, Felix
+
+
+Ubucon
+IT / Business Messe in Stuttgart
+IT-SA Nuernberg
+
+
+
+Toter der Woche
+
+
+Hitler
+
+
+[Aufzug] ( simplypix.files.wordpress.com/2010/02/aufzugold.jpg )
+
+
+Qype
+
+
+
+News
+
+
+Amazon Kindle DRM Fuckup
+MSD's leaky servers (rb2k)
+SS7 stinkt (rb2k)
+Mozilla arbeitet an H.264 Support
+HoneyMap
+Anatomy of a Hoax - Sony Nexus X
+Shortened .gov URL
+Wayland und Weston 1.0
+HackRF
+Playstation Final Hack
+
+
+Rogero CEX-4.21
+Scene Drama + LV0 Keys
+
+
+Samsung beendet LCD Vertrag mit Apple
+Wissenschaftler schuldig des Todschlags wg. falscher Erdbeben Prognose
+Boeing verschiesst Radiowellen um deinen computer zu ownen
+
+
+Facebook patentiert 
+
+
+Miet dir deine Cisco Box
+Raspberry Pis ARM Kernel wird OSS
+Die Cloud doch nicht so "wolkig"
+
+
+Joyent meint, dass sie viel cooler sind
+
+
+
+
+
+Lesefoo
+
+
+Blurred image restauration (rb2k)
+Ira Glass baloon animals (rb2k)
+So you want to optimize Ruby (rb2k)
+
+
+So you want to optimize Java
+
+
+How Linux 3.6 almost broke Postgres
+The USB Stick of Death
+Automatic Generation of Regular Expressions
+
+
+Für mehr Regulären Expressionismus im Louvre
+
+
+
+
+
+Mimimi der Woche
+
+
+Bongstar VDSL Einrichtung auf der Fritzbox
+
+
+
+Picks
+
+
+qipu
+Beef
+CS 1.6 sounds
+User Data Manifestio (Ingo)
+
+
+How “Twilight” teaches teens to love abusive relationships
+
+
+The Profound programmer
+Cocktails mixen
+Movies as Code via daswort
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/categories/talk/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2012-10-19T12:12:20+02:00</updated>
+  <updated>2012-10-26T11:37:44+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,129 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #30 - Yodafone]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2012/10/26/binaergewitter-talk-number-30-yodafone/"/>
+    <updated>2012-10-26T12:30:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2012/10/26/binaergewitter-talk-number-30-yodafone</id>
+    <content type="html"><![CDATA[<p>Ohne Pfleidi aber mit News, Messen und mehr Graveyards....</p>
+
+<h2>Open Apache Graveyard der Woche</h2>
+
+<ul>
+<li><a href="http://www.pro-linux.de/news/1/19022/cordovaphonegap-wird-top-level-projekt-von-apache.html">aka Phonegap</a></li>
+</ul>
+
+
+<h2>Unterwegs der Woche: Ingo, Felix</h2>
+
+<ul>
+<li><a href="http://ubucon.de">Ubucon</a></li>
+<li><a href="http://www.messe-stuttgart.de/it-business/">IT / Business Messe in Stuttgart</a></li>
+<li>IT-SA Nuernberg</li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="https://fragdenstaat.de/anfrage/erste-durchfuhrungsverordnung-zum-heilpraktikergesetz/">Hitler</a>
+
+<ul>
+<li>[Aufzug] ( simplypix.files.wordpress.com/2010/02/aufzugold.jpg )</li>
+</ul>
+</li>
+<li><a href="http://qype.de">Qype</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://www.bekkelund.net/2012/10/22/outlawed-by-amazon-drm/">Amazon Kindle DRM Fuckup</a></li>
+<li><a href="http://publicaddress.net/onpoint/msds-leaky-servers/">MSD's leaky servers</a> (rb2k)</li>
+<li><a href="http://www.scmagazine.com.au/News/318935,lone-packet-cripples-telco-networks.aspx">SS7 stinkt</a> (rb2k)</li>
+<li><a href="http://www.golem.de/news/desktop-mozilla-arbeitet-an-h-264-unterstuetzung-fuer-firefox-1210-95271.html">Mozilla arbeitet an H.264 Support</a></li>
+<li><a href="http://map.honeynet.org/">HoneyMap</a></li>
+<li><a href="http://anatomyofahoax.tumblr.com/">Anatomy of a Hoax - Sony Nexus X</a></li>
+<li><a href="http://yro.slashdot.org/story/12/10/21/0720241/spammers-using-shortened-gov-urls">Shortened .gov URL</a></li>
+<li><a href="http://www.pro-linux.de/news/1/19027/wayland-und-weston-10-erschienen.html">Wayland und Weston 1.0</a></li>
+<li><a href="http://www.forbes.com/sites/andygreenberg/2012/10/19/darpa-funded-radio-hackrf-aims-to-be-a-300-wireless-swiss-army-knife-for-hackers/">HackRF</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/PlayStation-3-angeblich-final-gehackt-1736203.html">Playstation Final Hack</a>
+
+<ul>
+<li><a href="http://www.tortuga-cove.com/forums/viewtopic.php?t=3636&amp;p=8516#p8516">Rogero CEX-4.21</a></li>
+<li><a href="http://pastie.org/private/bevpt5jf9kdjg3vrrv05w">Scene Drama + LV0 Keys</a></li>
+</ul>
+</li>
+<li><a href="http://hardware.slashdot.org/story/12/10/22/1757207/samsung-terminates-lcd-contract-with-apple">Samsung beendet LCD Vertrag mit Apple</a></li>
+<li><a href="http://science.slashdot.org/story/12/10/22/1634219/scientists-who-failed-to-warn-of-quake-found-guilty-of-manslaughter">Wissenschaftler schuldig des Todschlags wg. falscher Erdbeben Prognose</a></li>
+<li><a href="http://tech.slashdot.org/story/12/10/24/1341232/boeings-champ-missile-uses-radio-waves-to-remotely-disable-pcs">Boeing verschiesst Radiowellen um deinen computer zu ownen</a>
+
+<ul>
+<li><a href="yro.slashdot.org/story/12/10/24/2226209/facebook-patents-pokes-per-minute-limits">Facebook patentiert </a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/security/2012/10/cisco-machine-gets-listed-by-blackhat-org-that-rents-out-hacked-pcs/">Miet dir deine Cisco Box</a></li>
+<li><a href="http://hardware.slashdot.org/story/12/10/23/2342201/arm-code-for-raspberry-pi-goes-open-source-video">Raspberry Pis ARM Kernel wird OSS</a></li>
+<li><a href="http://arstechnica.com/information-technology/2012/10/amazon-web-services-outage-once-again-shows-reality-behind-the-cloud/">Die Cloud doch nicht so "wolkig"</a>
+
+<ul>
+<li><a href="http://news.ycombinator.net/item?id=4687184">Joyent meint, dass sie viel cooler sind</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://yuzhikov.com/articles/BlurredImagesRestoration1.htm">Blurred image restauration</a> (rb2k)</li>
+<li><a href="http://rookiemag.com/2012/10/ira-glass-balloon-animals/">Ira Glass baloon animals</a> (rb2k)</li>
+<li><a href="http://blog.headius.com/2012/10/so-you-want-to-optimize-ruby.html">So you want to optimize Ruby</a> (rb2k)
+
+<ul>
+<li><a href="http://forums.bukkit.org/threads/optimize-java-for-minecraft-in-a-extreme-way-p-need-feedback-thx-i-am-back.25994/">So you want to optimize Java</a></li>
+</ul>
+</li>
+<li><a href="http://lwn.net/Articles/518329/">How Linux 3.6 almost broke Postgres</a></li>
+<li><a href="http://j00ru.vexillium.org/?p=1272">The USB Stick of Death</a></li>
+<li><a href="http://news.ycombinator.net/item?id=4682545">Automatic Generation of Regular Expressions</a>
+
+<ul>
+<li>Für mehr Regulären Expressionismus im Louvre</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>Bongstar VDSL Einrichtung auf der Fritzbox</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://qipu.de">qipu</a></li>
+<li><a href="http://www.bindshell.net/tools/beef.html">Beef</a></li>
+<li><a href="http://www.ebaumsworld.com/flash/play/80986704/">CS 1.6 sounds</a></li>
+<li><a href="http://userdatamanifesto.org/">User Data Manifestio</a> (Ingo)
+
+<ul>
+<li><a href="http://www.psychologytoday.com/blog/psychologist-the-movies/201111/relationship-violence-in-twilight">How “Twilight” teaches teens to love abusive relationships</a></li>
+</ul>
+</li>
+<li><a href="http://theprofoundprogrammer.com/">The Profound programmer</a></li>
+<li><a href="i.imgur.com/7OTTZ.jpg">Cocktails mixen</a></li>
+<li><a href="http://moviesascode.net/">Movies as Code</a> via daswort</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #29 - Alarm für CORBA 11]]></title>
@@ -547,188 +670,6 @@
 <ul>
 <li><a href="http://www.newgrounds.com/portal/view/529003">Mr. Literal</a></li>
 <li><a href="http://www.amazon.de/gp/product/3869090758/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3869090758&amp;linkCode=as2&amp;tag=trektrip">Das Känguru-Manifest</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #25 - Pigstarter]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/09/18/binaergewitter-talk-number-25-pigstarter/"/>
-    <updated>2012-09-18T08:30:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/09/18/binaergewitter-talk-number-25-pigstarter</id>
-    <content type="html"><![CDATA[<p>Felix und Marc rocken alleine den Themenstau der letzten Wochen durch.</p>
-
-<h2>Kategorie(n) der Woche(n)</h2>
-
-<h3>Geruch der Woche</h3>
-
-<ul>
-<li><a href="http://www.nytimes.com/2005/10/28/nyregion/28odor.html?_r=4">Good Smell Perplexes New Yorkers</a> (Marc)
-
-<ul>
-<li><a href="https://www.google.com/search?q=Good+Smell+Perplexes+New+Yorker&amp;sugexp=chrome,mod=0&amp;sourceid=chrome&amp;ie=UTF-8">Around the paywal</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h3>Kunstwerk(n) der Woche(n)</h3>
-
-<ul>
-<li><a href="http://www.escapistmagazine.com/news/view/119195-Helpful-Old-Lady-Ruins-200-Year-Old-Portrait">There i fixed it - Aeltere frau <code>erneuert</code> 200 Jahre altes Portrait</a>
-
-<ul>
-<li><a href="http://knowyourmeme.com/memes/events/botched-ecce-homo-painting">Meme</a></li>
-<li><a href="http://blog.xkcd.com/2010/05/03/color-survey-results/">Related: XKCD Color Survey Results</a></li>
-</ul>
-</li>
-<li><a href="http://www.vg.no/nyheter/utrolige-historier/artikkel.php?artid=10060251">Mysterioeses Paket wird nach 100 Jahren geoeffnet</a>
-
-<ul>
-<li><a href="http://www.vgtv.no/#!id=55584">Video der oeffnung</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Toter(n) der Woche(n)</h2>
-
-<ul>
-<li><a href="http://www.golem.de/news/6wunderkinder-wunderkit-ist-tot-es-lebe-wunderlist-2-1209-94392.html">Wunderkit</a>
-
-<ul>
-<li><a href="http://www.6wunderkinder.com/blog/the-future-of-6wunderkinder-hello-wunderlist-2">6wunderkinder blog</a></li>
-</ul>
-</li>
-<li><a href="http://arstechnica.com/science/2012/08/a-hero-for-all-mankind-neil-armstrong-passes-at-age-82">Neil Armstrong</a></li>
-<li><a href="https://bitcointalk.org/index.php?topic=105818">Bitfloor</a> (Marc)</li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://arstechnica.com/security/2012/09/crime-hijacks-https-sessions/">CRIME, der BEAST nachfolger</a>
-
-<ul>
-<li>http://security.blogoverflow.com/2012/09/how-can-you-protect-yourself-from-crime-beasts-successor/</li>
-<li>https://threatpost.com/en_us/blogs/new-attack-uses-ssltls-information-leak-hijack-https-sessions-090512</li>
-<li>https://chromiumcodereview.appspot.com/10825183</li>
-</ul>
-</li>
-<li><a href="http://www.opus-codec.org/">Opus</a>
-
-<ul>
-<li><a href="http://en.wikipedia.org/wiki/Opus_(audio_format">wiki</a></li>
-<li><a href="http://www.zdnet.de/88123034/ietf-verabschiedet-lizenzfreien-online-audio-standard-opus/">auf deutsch</a></li>
-<li><a href="https://hacks.mozilla.org/2012/07/firefox-beta-15-supports-the-new-opus-audio-format/">Firefox Announcement</a></li>
-</ul>
-</li>
-<li><a href="http://www.golem.de/news/anonymous-1-000-001-iphone-udids-gestohlen-und-veroeffentlicht-1209-94318.html">Getohlene Apple UUIDS</a>
-
-<ul>
-<li><a href="http://arstechnica.com/apple/2012/09/ask-ars-whats-the-big-deal-with-iphone-udids">UDIDs explained</a></li>
-<li><a href="http://redtape.nbcnews.com/_news/2012/09/10/13781440-exclusive-the-real-source-of-apple-device-ids-leaked-by-anonymous-last-week">Quelle der UDIDs ist Blue Toad Publishing</a></li>
-</ul>
-</li>
-<li><a href="http://www.theverge.com/2012/8/24/3254422/apple-samsung-trial-verdict">Apple vs Samsung: Samsungs geraete sind abgekupfert - 1Mrd Schaden</a>
-
-<ul>
-<li><a href="http://lh6.googleusercontent.com/-6d234SvPnHg/UDsciQpy0QI/AAAAAAAAAtM/pqGOjyoNpOU/s522/5181866_700b%5B1%5D.jpg">Bild</a></li>
-<li><a href="https://plus.google.com/u/0/114476892281222708332/posts/246srfbqg6G">"Was? Apple ist das gleiche wie Samsung? Ich hab gewusst, dass wir von Apple abgezockt wurden!" - Beste Marketing Kampagne für Samsung?</a></li>
-<li><a href="http://allthingsd.com/20120823/samsung-opens-new-apple-store-in-australia/">Samsung eroeffnet Apple Store in Australien</a></li>
-<li><a href="http://www.zurmat.com/2012/08/29/samsung-pays-apple-1-billion-sending-30-trucks-full-of-5-cent-coins/">Samsung zahlt mit 30 trucks voll mit 5Cent Münzen (hoax)</a></li>
-<li><a href="http://gizmodo.com/5940253/chinese-clone-company-will-sue-apple-over-iphone-5-design">GooPhone - iPhone Knockoff - will mit geleaktem Parts Apple wegen iPhone5 Design verklagen</a></li>
-</ul>
-</li>
-<li>Iphone5
-
-<ul>
-<li><a href="http://lh6.googleusercontent.com/-jHgWtPfNooo/UFFxsJWqkFI/AAAAAAAAAoI/5c486irdIwo/s547/iphone.jpg">t</a></li>
-</ul>
-</li>
-<li><a href="http://wiki.postgresql.org/wiki/What%27s_new_in_PostgreSQL_9.2#Major_new_features">Postgres 9.2</a> (Marc)</li>
-<li><a href="http://techcrunch.com/2012/08/23/siri-is-the-new-clippy/">Kontroverse: Siri is the new Clippy</a></li>
-<li><a href="http://www.javaplex.com/blog/high-performance-message-queues-get-reviewed/">Message queue overview</a> (Marc)</li>
-<li><a href="http://blog.diasporafoundation.org/2012/08/27/announcement-diaspora-will-now-be-a-community-project.html">Diaspora gibt auf/projekt an OpenSource Community</a></li>
-<li><a href="https://blog.dropbox.com/index.php/another-layer-of-security-for-your-dropbox-account/">Dropbox bekommt 2-factor authentication</a></li>
-<li><a href="http://my.opera.com/ODIN/blog/2012/08/28/colourful-opera-12-50-snapshot">Opera bekommt SPDY support</a></li>
-<li><a href="http://www.golem.de/news/tablets-amazon-stellt-neue-kindle-fire-vor-1209-94389.html">Neuer Kindle Fire</a></li>
-<li><a href="http://www.golem.de/news/kindle-paperwhite-amazons-neuer-e-book-reader-leuchtet-1209-94394.html">Neuer Kindle Paperwhite</a></li>
-<li><a href="http://www.wired.com/wiredenterprise/2012/09/pluto-switch/all/">Google Switch</a> (Marc)</li>
-<li>Man kann alles kaputt machen
-
-<ul>
-<li><a href="https://github.com/juuso/keychaindump">Apple Keychain Dump</a></li>
-<li><a href="http://arstechnica.com/security/2012/09/windows-passwords-exposed/">Fingerprint Reader Software leakt Win Passwort</a></li>
-<li><a href="http://www.halfdog.net/Security/2012/VirtualBoxSoftwareInterrupt0x8GuestCrash/">VirtualBox Software Interrupt 0x8 Guest Crash</a></li>
-<li><a href="http://www.zdnet.com/how-to-spy-on-campaigns-of-competitors-who-use-url-shorteners-7000001088/">Url Shortener Insights</a></li>
-</ul>
-</li>
-<li><a href="http://uk.ign.com/articles/2012/08/31/nintendo-almost-made-a-knitting-add-on-for-nes"> The Nintendo Knitting Add-On for NES</a></li>
-<li><a href="http://www.zdnet.com/mind-hackers-could-get-secrets-from-your-brainwaves-7000003267/">Science: Mind Hacking</a></li>
-<li><a href="http://www.heise.de/ix/meldung/Microsoft-PC-heisst-jetzt-Personalized-Computing-1699555.html">Microsoft: Personal Computer -> Personalized Computer</a></li>
-<li><a href="https://github.com/apache/httpd/commit/a381ff35fa4d50a5f7b9f64300dfd98859dee8d0">Apache: Patch ignoriert DNT vom IE10</a></li>
-</ul>
-
-
-<h2>Themen</h2>
-
-<h3>Lesefoo</h3>
-
-<ul>
-<li><a href="http://www.igvita.com/2012/09/12/web-fonts-performance-making-pretty-fast/">Web Fonts Performance: Making Pretty, Fast</a> (Marc)</li>
-<li><a href="http://paulrouget.com/e/diet/">How I lost 14KG in 10 weeks</a> (pfleidi)
-
-<ul>
-<li><a href="http://paleosophie.de/blog/2012/08/alles-was-man-uber-kohlenhydrate-wissen-sollte-teil-1-was-genau-sind-kohlenhydrate">Paleosophie 1</a></li>
-<li><a href="http://paleosophie.de/blog/2012/09/alles-was-man-uber-kohlenhydrate-wissen-sollte-teil-2-welche-warum-und-wieviel">Paleosophoe 2</a></li>
-</ul>
-</li>
-<li><a href="http://37signals.com/svn/posts/3250-clarity-over-brevity-in-variable-and-method-names">Klare Methodennamen</a> (Marc)
-
-<ul>
-<li>litterate programming</li>
-</ul>
-</li>
-<li><a href="http://rtm-cs.sinp.msu.ru/manual/rtl/rtlmanifesto.pdf">The RTLinux Manifesto</a></li>
-<li><a href="http://klevjers.com/papers/phishing.pdf">Phishing by Data URI</a></li>
-<li><a href="http://www.sqlite.org/src4/doc/trunk/www/design.wiki">Design of SQLite 4</a> (Marc)</li>
-<li><a href="http://fosslien.com/startup/">Startup is the New Hipster</a></li>
-<li><a href="http://tech.mit.edu/V132/N35/loveletter.html">A love letter to MIT</a> (Marc)</li>
-<li><a href="https://stripe-ctf.com/progress/makefu">Stripe CTF</a>
-
-<ul>
-<li><a href="http://blog.spiderlabs.com/2012/08/stripe-ctf-walkthrough.html">Walkthrough 1</a></li>
-<li><a href="http://blog.matthewdfuller.com/2012/08/stripe-capture-flag-level-by-level.html">Walkthrough 2</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>Archlinux Installation - no shiny installer for YOU!</li>
-<li>usb3 xhci fuckup</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="https://blockchain.info/wallet/">Blockchain Wallet</a> (Marc)</li>
-<li><a href="http://www.passbild-online.de/">Passbild online</a> (pfleidi)
-
-<ul>
-<li><a href="http://blog.marc-seeger.de/2009/12/20/biometrische-passfotos-selbstgemacht/">Marcs Blog post</a></li>
-</ul>
-</li>
-<li><a href="http://www.amazon.de/Lenovo-Notebook-Intel-3210M-500GB/dp/B0088W0G0Q/tag=krebsco-21">Thinkpad x230i</a><a href="http://www.notebooksbilliger.de/lenovo+thinkpad+mobile+broadband+0a36319+umts+modul">+ UMTS</a></li>
-<li><a href="http://skeu.it/">Skeu It!</a></li>
-<li><a href="http://www.theregister.co.uk/2012/09/11/kindleberry_pi/">Kindleberry Pi</a></li>
-<li><a href="http://www.youtube.com/user/EvolutionDocumentary">Evolution Documentary</a> (pfleidi)</li>
 </ul>
 
 ]]></content>
