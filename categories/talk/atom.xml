@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/categories/talk/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2012-10-31T21:16:48+01:00</updated>
+  <updated>2012-11-23T14:46:29+01:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,387 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #33 - Das Springer Sparabo]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2012/11/23/binaergewitter-talk-number-33-das-springer-sparabo/"/>
+    <updated>2012-11-23T14:00:00+01:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2012/11/23/binaergewitter-talk-number-33-das-springer-sparabo</id>
+    <content type="html"><![CDATA[<h2>Kommentare zur Sendung</h2>
+
+<ul>
+<li><a href="https://itunes.apple.com/de/podcast/binargewitter/id216877594">itunes kommentare</a></li>
+<li>serious, todo: <a href="https://github.com/Binaergewitter/serious-bg/blob/master/serious/lib/site/views/atom.builder">Feed weiter auffricklen</a> (siehe <a href="https://github.com/Binaergewitter/serious-bg/blob/master/serious/lib/site/views/_flattr.erb">flatter template</a></li>
+<li>Grundlos: <a href="http://tenderlovemaking.com/">tender love making</a></li>
+</ul>
+
+
+<h2>Kategorien der Woche</h2>
+
+<h2>Lol der Woche</h2>
+
+<ul>
+<li><a href="http://derstandard.at/1353206631590/Microsoft-Webkit-koennte-der-neue-IE6-werden">MS warnt vor Webkit Monopol ... weil sie nicht Standardkonform sind</a></li>
+<li><a href="http://www.heise.de/open/meldung/Google-vergisst-Dezember-in-Android-4-2-1752828.html">kein Dezember in Android 4.2 :) ... im Kontakte App</a>
+
+<ul>
+<li><a href="http://www.androidpolice.com/2012/11/19/android-4-2-gate-here-are-some-of-the-major-issues-plaguing-googles-newest-release/">Weitere schwerwiegende Bugs in Android 4.2</a></li>
+<li><a href="http://www.golem.de/news/mozilla-addon-zeigt-firefox-os-1211-95751.html">Firefox OS Emulator</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Eventuell unschulidiger Töter der Woche</h2>
+
+<ul>
+<li><a href="http://www.whoismcafee.com/">Mc Äffchen dreht durch</a>
+
+<ul>
+<li><a href="http://www.wired.com/threatlevel/2012/11/mcafee-unhinged/">John McAfee, Unhinged</a></li>
+<li><a href="http://www.securityweek.com/john-mcafee-government-wants-kill-me">The Government Wants to kill me!</a></li>
+<li><a href="http://www.amazon.com/dp/B00A88KHYI/?tag=krebsco-20">John McAfee's Last Stand</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Erfinder-des-Bayer-Filters-gestorben-1754906.html">Bayer Erfinder</a> (via daswort)</li>
+<li><a href="http://www.smh.com.au/technology/technology-news/where-did-it-go-scientists-undiscover-pacific-island-20121122-29ro4.html">Sandy Island</a></li>
+</ul>
+
+
+<h2>(Un)toter der Woche</h2>
+
+<ul>
+<li><a href="http://tagesschau.de/ausland/lonesomegeorge100.html">Lonesome Georg doch nicht allein?!</a></li>
+<li><a href="http://www.golem.de/news/meego-nachfolger-jolla-zeigt-erstmals-ui-von-sailfish-1211-95854.html">Jolla/Sailfish</a> yeah - hätte das als toten genommen, weil closed source
+
+<ul>
+<li><a href="https://twitter.com/nopil3os/status/271231538346225664">Tweet</a></li>
+</ul>
+</li>
+<li><a href="http://www.bbc.co.uk/news/technology-20395212">Alter Computer wiederbelebt</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Nummer_5_lebt!">Nummer 5 lebt!</a></li>
+<li><a href="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gldt.svg">Linux Distros Baum</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://www.freebsd.org/news/2012-compromise.html">FreeBSD intrusion</a></li>
+<li><a href="http://www.computing.co.uk/ctg/news/2225540/user-may-have-hacked-nintendo-wii-u-network-just-hours-after-launch">Nintendo WII U <code>gehackt</code></a></li>
+<li><a href="http://it.slashdot.org/story/12/11/20/2118200/israeli-infrastructure-proves-too-strong-for-anonymous">Israeli Infrastructure Proves Too Strong for Anonymous</a></li>
+<li><a href="http://arstechnica.com/information-technology/2012/11/how-team-obamas-tech-efficiency-left-romney-it-in-dust/">How Team Obama's tech efficiency left Romney IT in
+dust</a> (marc)</li>
+<li><a href="http://www.theatlantic.com/technology/archive/2012/11/when-the-nerds-go-marching-in/265325/">When the nerds go marching in</a> (marc)</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Pay-Wahl-fuer-taz-de-1754904.html">Taz Paywall</a></li>
+<li><a href="http://news.slashdot.org/story/12/11/20/216234/ntp-glitch-reverts-clocks-back-to-2000">NTP Glitch</a></li>
+<li><a href="http://37signals.com/svn/posts/3315-how-i-came-to-love-big-data-or-at-least-acknowledge-its-existence">How I came to love big data (or at least acknowledge its existence)</a> (marc)</li>
+<li><a href="http://erratasec.blogspot.com.es/2012/11/you-are-committing-crime-right-now.html">You are commiting a crime right now</a></li>
+<li><a href="https://twitter.com/textfromxcode/">Text from XCode</a> (marc)</li>
+<li><a href="http://garantiadata.com/blog/benchmarking-the-new-aws-m3-instances-with-redis">Amazon M3 instanzen mit Redis gebenchmarked</a> (marc)</li>
+<li><a href="https://torrentfreak.com/police-raid-9-year-old-pirate-bay-girl-confiscate-winnie-the-pooh-laptop-121122/">Police Raid 9-Year-Old Pirate Bay Girl, Confiscate Winnie The Pooh Laptop</a></li>
+<li><a href="http://www.golem.de/news/urheberrecht-mustervertrag-fuer-eltern-gegen-filesharing-der-kinder-1211-95885.html">Mustervertrag gegen Kinder Filesharing</a></li>
+<li><a href="http://www.kickstarter.com/projects/1225193080/the-ruby-20-walkthrough">Ruby 2.0 walkthrough</a></li>
+<li><a href="http://alisnic.net/blog/making-your-ruby-fly/">Make your Ruby fly</a> (marc)</li>
+<li><a href="https://bitcointalk.org/index.php?topic=49971.msg1351299#msg1351299">TML Bitstream 1.50a für MMQ</a> (marc)</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://blog.headius.com/2012/11/refining-ruby.html">Headius: Refining Ruby</a> (marc)</li>
+<li><a href="http://www.honeynet.org/papers/bots">Tracking Botnets</a></li>
+<li><a href="http://blog.dynatrace.com/2012/11/14/why-averages-suck-and-percentiles-are-great/">Why Averages Suck and Percentiles are Great</a> (marc)</li>
+<li><a href="http://clarkesworldmagazine.com/watts_01_10/">The Things</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>Ruby / Octopress</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="https://tahoe-lafs.org">Tahoe-lafs (repick)</a></li>
+<li><a href="http://retroshare.sourceforge.net">Retroshare</a> (marc)</li>
+<li><a href="https://github.com/samr7/vanitygen">Vanitygen</a> (marc)</li>
+<li><a href="http://agateau.com/2012/11/14/introducing-homerun/">Homerun</a> (ingo)</li>
+<li><a href="http://amzn.to/T7pwhf">Fitbit One</a> (marc)</li>
+<li><a href="http://auphonic.com/blog/2012/11/19/auphonic-mobile-app-ios/">Auphonic Mobile App</a></li>
+<li><a href="http://amzn.to/T7pCFB">Revolt USB Powerbank</a> + <a href="http://amzn.to/QxohfD">Sanyo Eneloop AA</a> (marc)</li>
+<li><a href="http://www.asofterworld.com/index.php?id=898">A Softer World</a></li>
+<li><a href="https://onetimesecret.com/">OneTime Geheimnis</a></li>
+<li><a href="http://www.kalixa.de">Kalixa</a> (marc)</li>
+<li><a href="https://github.com/jordansissel/fpm">FPM</a> (marc)</li>
+<li><a href="http://www.weechat.org">weechat</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #32 - Jimmy Wales Starrzeit]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2012/11/16/binaergewitter-talk-number-32-jimmy-wales-starrzeit/"/>
+    <updated>2012-11-16T12:00:00+01:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2012/11/16/binaergewitter-talk-number-32-jimmy-wales-starrzeit</id>
+    <content type="html"><![CDATA[<h1>Kategorie der Woche</h1>
+
+<h2>Badass der Woche</h2>
+
+<ul>
+<li><a href="http://www.metro.co.uk/weird/917706-grandma-in-russia-kills-wolf-with-bare-hands-and-axe?ref=fb_invite_declined">Grossmutter toetet Wolf mit Axt und blossen Händen</a></li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li>Der Wolf, der von der Grossmutter getoetet wurde</li>
+<li><a href="http://www.reddit.com/r/programming/comments/137kd9/18_months_ago_termkit_a_nextgeneration_terminal/">TermKit</a></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li>Bücher</li>
+<li><a href="http://www.golem.de/news/open-source-buchscanner-blaettert-mit-staubsaugerhilfe-um-1211-95718.html">Google Buch Einleser</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://www.golem.de/news/tod-in-belize-regierungschef-nennt-john-mcafee-meschugge-1211-95730.html">John McAffee auf der Flucht</a></li>
+<li><a href="http://yro.slashdot.org/story/12/11/12/2016247/john-mcafee-accused-of-murder-wanted-by-belize-police">John McAfee in Mord verwickelt</a>
+
+<ul>
+<li><a href="http://news.cnet.com/8301-1009_3-57548458-83/antivirus-pioneer-mcafee-sought-for-questioning-in-murder-case/">Hat ein eigenes Drogenlabor speziell fuer seine Firma</a></li>
+<li><a href="http://www.wired.co.uk/news/archive/2012-11/14/john-mcafee-audio-interview">Interview mit Wired: Hat sich in seinem eigenen Garten eingegraben damit die Feds ihn nicht finden</a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/apple/2012/11/op-ed-where-are-all-the-iphone-5-app-updates/">iPhone5 Updates auf größeres Display</a></li>
+<li><a href="http://seclists.org/fulldisclosure/2012/Nov/94">Linux Rootkit, welches HTTP Requests umschreibt</a></li>
+<li><a href="http://hardware.slashdot.org/story/12/11/09/2049240/moores-law-is-becoming-irrelevant-says-arms-boss">Duh: ARM chef meint, dass Moores Law irrelevant wird, dass effizienz und Preis wichtiger ist</a>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Moores_law">Moores Law</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Amdahl's_law">Amdahls Law</a></li>
+</ul>
+</li>
+<li><a href="http://hothardware.com/News/Microsofts-Big-Hidden-Windows-8-Feature-BuiltIn-Advertising/">Win8 hidden features: Ads</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2012/11/ohio-attorney-creates-fake-child-porn-for-case-now-must-pay-300000/">Staatsanwalt soll 300k Euro zahlen weil er kindergesichter auf Pr0n geshooped hat</a></li>
+<li><a href="http://pixus-ru.blogspot.ru/2012/11/hack-any-skype-account-in-6-easy-steps.html">Hack any skype account in 6 easy steps</a></li>
+<li><a href="https://petitions.whitehouse.gov/petition/peacefully-grant-state-texas-withdraw-united-states-america-and-create-its-own-new-government/BmdWCP8B">Nach Wahlen - Buerger Texas' starten Petition um aus USA auszutreten</a></li>
+<li><a href="http://www.golem.de/news/rapid-prototyping-us-armee-entwickelt-guenstigen-3d-drucker-1211-95633.html">US Army will guenstige 3d-drucker fuer den Feldeinsatz</a></li>
+<li><a href="http://hardware.slashdot.org/story/12/11/08/2017257/open-compute-wants-to-make-biodegradable-servers">Bio-degradable Servers von Open Compute</a>
+
+<ul>
+<li><a href="http://opencompute.org">http://opencompute.org/</a></li>
+</ul>
+</li>
+<li><a href="http://www.recursivity.com/blog/2012/10/28/ides-are-a-language-smell/">IDEs Are a Language Smell</a> (pfleidi)</li>
+<li><a href="http://hothardware.com/News/Nike-FuelBand-One-Big-Security-Hole-For-Your-Life/">Nike FuleBand deckt Fremdgaenger auf</a></li>
+<li><a href="http://www.heise.de/developer/meldung/Redis-2-6-unterstuetzt-Skripting-mit-Lua-1734935.html">Redis 2.6 mit Lua Scripting</a> (pfleidi)</li>
+<li><a href="http://luajit.org/performance_x86.html">LuaJIT 2.0 ist schnell</a>
+
+<ul>
+<li><a href="http://playingwithpointers.com/archives/1010">A peek into LuaJIT</a></li>
+</ul>
+</li>
+<li><a href="http://www.golem.de/news/freies-arbeiten-apple-naehert-unternehmenskultur-an-google-an-1211-95692.html">Apple kuckt in Sachen Unternehmenskultur bei Google ab</a></li>
+<li><a href="http://arstechnica.com/gadgets/2012/11/why-the-hell-does-this-mouse-need-to-connect-to-the-internet/">Deine Maus braucht mehr Internet</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://blog.cdleary.com/2012/11/arm-chars-are-unsigned-by-default/">ARM chars are unsigned by default</a></li>
+<li><a href="http://eloquentjavascript.net/contents.html">Eloquent JavaScript</a> (pfleidi)
+
+<ul>
+<li><a href="https://www.amazon.de/dp/1593272820/ref=as_li_ss_til?tag=pfleidi-21">Eloquent JavaScript Buch</a></li>
+</ul>
+</li>
+<li><a href="http://io9.com/5958479/7-best+case-scenarios-for-the-future-of-humanity">7 Best-Case Scenarios für die Zukunft</a></li>
+<li><a href="http://danielmiessler.com/study/lsof/">Lsof Beispiele</a> (pfleidi)</li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>solaris10 (felix)</li>
+<li>Arch Linux boot fail (pfleidi)</li>
+<li>Nexus4 (felix)</li>
+<li>Wasserkühlung (pfleidi)</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=6YrjAqPqM30">BoxeeBox Hack</a> via @RowC</li>
+<li><a href="http://clonezilla.org">Clonezilla Bare Metal Restore</a></li>
+<li>rear</li>
+<li><a href="https://itunes.apple.com/de/app/berlin-coffee-map/id493217376?mt=8">Berlin Coffee Map</a> (pfleidi)</li>
+<li><a href="http://wiki.openstack.org/TryStack">TryStack</a></li>
+<li><a href="http://ethercalc.net/">Ethercalc</a></li>
+<li><a href="https://github.com/wycats/thor">Thor</a> (pfleidi)</li>
+<li><a href="https://www.youtube.com/watch?v=75F3CSZcCFs">Bus Werbung (DasWort)</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #31 - Pfleidi hol die Pilze]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2012/11/10/binaergewitter-talk-number-31-pfleidi-hol-die-pilze/"/>
+    <updated>2012-11-10T00:15:00+01:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2012/11/10/binaergewitter-talk-number-31-pfleidi-hol-die-pilze</id>
+    <content type="html"><![CDATA[<h1>Kategorie der Woche</h1>
+
+<h2>Papagei der Woche</h2>
+
+<ul>
+<li><a href="http://arstechnica.com/science/2012/11/parrot-in-captivity-manufactures-tools-something-not-seen-in-the-wild/">Papagei nuzt Werkzeuge</a></li>
+<li><a href="https://lh4.googleusercontent.com/-yoaN7movr4g/UClREFEGD2I/AAAAAAABIy8/W_l7Za9I_Sc/s480/My+First+Project-new.gif">Runner-Up</a></li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://lists.grok.org.uk/pipermail/full-disclosure/2012-November/088813.html">Sophos Full Disclosure</a> (rb2k)
+
+<ul>
+<li><a href="http://www.cso.com.au/article/441070/google_security_researcher_keep_sophos_away_from_high_value_systems/">Felix sein Link</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li>Enlightenment / E17</li>
+<li><a href="http://www.muktware.com/4760/half-life-3-linux-exclusive">HalfLife 3 auf Gnu Hurd</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://www.cultofmac.com/198521/the-yatcht-steve-jobs-designed-with-philippe-starck-has-finally-been-unveiled/">Die Yacht von Steve Jobs (IPhallus)</a></li>
+<li><a href="http://news.cnet.com/8301-17852_3-57541847-71/microsofts-picture-password-ad-intriguing-or-confusing/">Microsoft picture-password</a></li>
+<li><a href="http://www.microsoft.com/Surface/en-US/support/surface-with-windows-RT/files-folders-and-online-storage/surface-disk-space-faq">Surface Diskspace FAQ</a> (rb2k)</li>
+<li><a href="http://news.ycombinator.net/item?id=4736448">US Government: You Don't Own Your Cloud Data So We Can Access It At Any Time</a></li>
+<li><a href="http://www.golem.de/news/microsoft-dem-windows-live-messenger-droht-das-aus-1211-95533.html">MS will Live messenger zu gunsten von Skype abschalten</a></li>
+<li><a href="http://news.ycombinator.net/item?id=4716322">Markdown: The Spec</a></li>
+<li><a href="http://elm-lang.org/learn/Escape-from-Callback-Hell.elm">Escape from Callback Hell</a></li>
+<li><a href="http://www.itproportal.com/2012/11/01/online-security-tips-a-password-manager-alone-isnt-enough/">A Password manager is not enough?</a></li>
+<li>ARM statt Intel bei Apple</li>
+<li><a href="http://gamelab.mit.edu/games/a-slower-speed-of-light/">A Slower Speed of Light</a></li>
+<li><a href="http://arstechnica.com/tech-policy/2012/11/do-not-track-finally-arrives-with-version-23-of-chrome/">DNT in Chrome</a></li>
+<li><a href="http://www.networkworld.com/news/2012/110712-security-experts-push-back-at-264036.html">Der Cyber 9/11</a>
+
+<ul>
+<li><a href="http://vimeo.com/46717788">Pac-Man - The Movie</a></li>
+</ul>
+</li>
+<li><a href="http://science.slashdot.org/story/12/11/06/2325234/hiv-vaccine-safe-enough-to-pass-phase-1-human-trials">HIV Vaccine</a></li>
+<li><a href="http://what-if.xkcd.com/18/">XKCD What-IF: BB Gun</a></li>
+<li><a href="http://arstechnica.com/business/2012/11/kim-dotcom-now-plans-to-give-new-zealand-free-broadband-pipe-to-us/">Unterseekabel und freies Internets fuer Neuseeland</a></li>
+<li><a href="http://www.h-online.com/security/news/item/German-Customs-Investigation-Bureau-seeks-trojan-programmers-1743025.html">Deutsche Regierung sucht mal wieder Trojaner-Coder</a></li>
+<li><a href="http://www.informationweek.com/security/attacks/hackers-trade-tips-on-ddos-sql-injection/240012531">Hackers Trade Tips on DDoS,SQL Injection</a>
+
+<ul>
+<li><a href="http://www.theregister.co.uk/2012/11/08/hard_token_in_credit_card/">Alternativer Link</a></li>
+</ul>
+</li>
+<li><a href="https://www.archlinux.org/news/end-of-initscripts-support/">Archlinux: End of initscripts</a></li>
+<li><a href="http://arstechnica.com/gaming/2012/10/walt-disney-buys-lucasfilm-promises-star-wars-episode-7-in-2015/">Walt Disney kauft Lucasfilms</a></li>
+<li><a href="https://lh4.googleusercontent.com/-8MAw_UJERYw/UJBAppoOOXI/AAAAAAAAYfg/WH077Gamz9M/s500/tumblr_mc7lqvKn4d1ri1fcro1_500.gif">Star Wars Preview</a></li>
+<li><a href="http://www.androidpolice.com/2012/11/07/google-nexus-4-review-the-beautifully-crafted-premium-flagship-phone-that-android-deserves/">Google Nexus 4 Review</a> (rb2k)
+
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=de.danoeh.antennapod">antennapod</a></li>
+</ul>
+</li>
+<li><a href="http://arstechnica.com/gadgets/2012/11/google-wallet-may-integrate-programmable-payment-cards/">Google Wallet jetzt HartToken</a> (felix)</li>
+<li><a href="http://whitepeoplemourningromney.tumblr.com/">White people mourning Romney</a> (rb2k)</li>
+<li><a href="https://blog.mozilla.org/ux/2012/10/save-for-later/">Firefox :Save For Later</a></li>
+<li><a href="http://accumulo.apache.org/">Apache Accmulo</a> (rb2k)</li>
+<li><a href="http://blog.gittip.com/post/35057426257/stolen-money-on-gittip-part-1">Stolen money on Gittip</a> (felix)</li>
+<li><a href="http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-dev/46348">Ruby 2.0.0-preview1</a>
+
+<ul>
+<li><a href="http://globaldev.co.uk/2012/11/ruby-2-0-0-preview-features/">features</a> (rb2k)</li>
+</ul>
+</li>
+<li><a href="http://www.haystacksoftware.com/blog/2012/11/arq-cloud-backup-for-mac-adds-support-for-amazon-glacier/">Arq 3 kann nun Amazon Glacier</a> (rb2k)</li>
+<li><a href="http://www.heise.de/open/meldung/Steam-fuer-Linux-startet-im-Betatest-1744961.html">Steam für Linux</a>
+
+<ul>
+<li><a href="http://www.heise.de/open/meldung/Nvidia-Neuer-Linux-Treiber-fuer-mehr-Leistung-beim-Spielen-1745377.html">neue Nvidia Treiber für Linux</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.wired.com/wired/archive/4.12/ffglass_pr.html">Neal Stephenson - Mother earth, mother board</a> (pfleidi)</li>
+<li><a href="http://web.mit.edu/snikolov/Public/trend.pdf">Trend or No Trend: A Novel Nonparametric Method for Classifying Time Series</a> (rb2k)</li>
+<li><a href="http://blog.cloudflare.com/why-google-went-offline-today-and-a-bit-about">Why Google Went Offline Today and a Bit about How the Internet Works</a> (rb2k)</li>
+<li><a href="http://abstractstrategygames.blogspot.de/2010/10/singularity-chess.html">Singularity Chess</a></li>
+<li><a href="http://physics.nyu.edu/grierlab/conveyor7c/">Tractor Beams are Real</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>continue</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.kaffeewiki.de/">Kaffee Wiki</a> (pfeidi)</li>
+<li><a href="http://www.asofterworld.com/index.php?id=891">A Softer World: 891</a></li>
+<li><a href="https://www.amazon.de/dp/B008F4W0DS/ref=as_li_ss_til?tag=pfleidi-21">Touchscreen Handschuhe</a> (pfleidi)</li>
+<li><a href="http://www.kickstarter.com/projects/145553614/star-trek-renegades">Kickstarter Star Trek</a>
+
+<ul>
+<li><a href="http://nkdev.de/misc/kaffee2.jpg">Kaffee ist wichtig!</a></li>
+</ul>
+</li>
+<li><a href="http://www.reddit.com/r/fossworldproblems">Foss world problems</a></li>
+<li><a href="http://qubes-os.org/Home.html">Qubes OS</a></li>
+<li><a href="http://www.imdb.com/title/tt1371111/">Cloud Atlas</a> (pfleidi)</li>
+<li><a href="http://www.pornkins.com/store">Pornkins</a></li>
+<li><a href="http://2012.jsconf.eu/speaker/2012/08/24/inspector-web-and-the-mystery-of-the-shadow-dom.html">Inspector web and the mystery of the shadow DOM</a> (pfleidi)</li>
+<li><a href="http://terriblelinuxwallpaper.tumblr.com/">Terrible Linux Wallpapers</a> via daswort</li>
+<li><a href="http://de.wikipedia.org/wiki/Castle_%28Fernsehserie%29">Castle</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #30 - Yodafone]]></title>
@@ -256,420 +637,6 @@
 <li><a href="http://www.espressomushroom.co.uk/">Espresso Mushroom Grow Set</a> (pfleidi)</li>
 <li><a href="https://github.com/mojombo/chronic">Chronic Gem</a> (pfleidi)</li>
 <li><a href="http://ubucon.de">Ubucon</a> (ingo)</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #28 - Kindle Whitepaper]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/10/12/binaergewitter-talk-number-28-kindle-whitepaper/"/>
-    <updated>2012-10-12T11:30:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/10/12/binaergewitter-talk-number-28-kindle-whitepaper</id>
-    <content type="html"><![CDATA[<p>Diesmal etwas kürzer als gewohnt, aber nicht weniger witzig oder informativ. Wir reden über Pokemons, Owncloud 4.5 und UFOs....</p>
-
-<h2>Blast from the Past</h2>
-
-<ul>
-<li><a href="http://arstechnica.com/tech-policy/2012/10/i-am-calling-you-from-windows-a-tech-support-scammer-dials-ars-technica/">I am calling you from Windows</a></li>
-</ul>
-
-
-<h2>Kategorie der Woche</h2>
-
-<h3>Nerd der Woche</h3>
-
-<ul>
-<li><a href="http://entertainment.slashdot.org/story/12/10/08/1249240/student-publishes-extensive-statistics-on-the-population-of-middle-earth">Student publiziert Statistiken ueber Mittelerde</a></li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://www.bbc.co.uk/news/world-us-canada-19879379">Typ sirbt nach Kakalaken Contest</a></li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=yWLClUwAHGc">Sim City</a> (marc)</li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://arstechnica.com/security/2012/10/mcafee-trust-guard-certifications-can-make-websites-less-safe/">Trust Guard certifications can make websites less safe</a></li>
-<li><a href="http://features.peta.org/pokemon-black-and-white-parody/">Petamon</a> (marc)</li>
-<li><a href="https://github.com/pagespeed/ngx_pagespeed">nginx version of mod_pagespeed</a> (marc)</li>
-<li><a href="https://owncloud.com/blog/another-great-community-effort-meet-owncloud-4-5">Owncloud 4.5</a></li>
-<li><a href="http://news.cnet.com/8301-1035_3-57526994-94/android-users-outraged-over-motorolas-broken-promise/">Motorolla Android updates... not</a></li>
-<li><a href="http://mashable.com/2012/10/02/ew-has-smartphone-inside/">Entertainment weekly smartphone foo</a> (marc)</li>
-<li><a href="https://www.edis.at/en/server/colocation/austria/raspberrypi/">RPi Colocation</a></li>
-<li><a href="http://www.boredpanda.org/famous-old-photographs-restored-in-color/">Famous Old Photographs Restored in Color</a>
-
-<ul>
-<li><a href="http://www.huffingtonpost.com/bianca-bosker/normalize-instagram-app_b_1812556.html">Normalize Instagram undo</a></li>
-</ul>
-</li>
-<li><a href="http://www.extremetech.com/extreme/137505-us-air-forces-1950s-supersonic-flying-saucer-declassified">UFOs von der US Air Force deklassifiziert</a></li>
-<li><a href="http://www.amazon.de/gp/product/B007OZO03M/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007OZO03M&amp;linkCode=as2&amp;tag=trektrip">Kindle Paperwhite</a></li>
-<li><a href="http://androidheadlines.com/2012/10/featured-in-2011-more-money-at-apple-and-google-went-towards-patents-than-rd.html">In 2011, More Money At Apple And Google Went Towards Patents Than R&amp;D</a></li>
-<li><a href="https://github.com/iamultra/xmppmitm">XMPPMITM</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://webplatform.org">WebPlatform</a> (pfleidi)
-
-<ul>
-<li><a href="http://paulirish.com/2012/why-im-so-excited-about-web-platform-docs/">Blog Post von Paul Irish</a></li>
-</ul>
-</li>
-<li><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=mWtJwlv7TtU">How we test Acquia Cloud</a> (marc)</li>
-<li><a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.6.8122">Consistency maintenance in peer-to-peer file sharing networks</a> (pfleidi)</li>
-<li><a href="http://www.businessweek.com/articles/2012-10-08/the-only-earthling-with-a-facebook-dislike-button">Facebook Release Engineer Interview</a> (marc)</li>
-<li><a href="http://www.phptherightway.com/">PHP the right way</a></li>
-<li><a href="http://ikaisays.com/2012/10/04/clearing-up-some-things-about-linkedin-mobiles-move-from-rails-to-node-js/">Linkedin's move from rails to node</a> (marc)</li>
-<li><a href="http://pulse.sportngin.com/news_article/show/153460">Load testing mit em-proxy</a> (marc)</li>
-<li><a href="http://en.wikipedia.org/wiki/ReDoS">ReDos - Regex Denial of Service</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>MacBook Pro black screen</li>
-<li>FUCKING SCHEISS HP DRUCKER
-
-<ul>
-<li>Idee für progressive rock band: "Paper Jam"</li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://www.rockbox.org/">Rockbox Firmware</a>
-
-<ul>
-<li><a href="http://www.rockbox.org/wiki/SoundCodecs">SoundCodec in Rockbox</a></li>
-</ul>
-</li>
-<li><a href="https://twitter.com/morgonfreeman">@MorgonFreeman</a>
-
-<ul>
-<li>dagegen (marc)</li>
-</ul>
-</li>
-<li><a href="http://www.hoaxilla.com/">Hoaxilla mit Vorspann hinten</a></li>
-<li><a href="http://www.audioponies.de/">Die Strömung</a></li>
-<li><a href="https://www.amazon.de/dp/B001BWQTOC/ref=as_li_ss_til?tag=pfleidi-21">Gum Pro</a> (pfleidi)</li>
-<li><a href="https://www.youtube.com/watch?v=4dKwHOfd2dk&amp;feature=player_embedded">Bottle beware!</a></li>
-<li><a href="https://www.amazon.de/dp/B001AX8QUM/ref=as_li_ss_til?tag=pfleidi-21">Funk Steckdosen</a> (pfleidi)</li>
-<li><a href="http://www.amazon.de/gp/product/B000PJ56E6/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B000PJ56E6&amp;linkCode=as2&amp;tag=trektrip">Sodastream Pinguin</a></li>
-<li><a href="http://www.youtube.com/user/EvolutionDocumentary">Evolution Documentary</a> (pfleidi)
-
-<ul>
-<li><a href="https://github.com/rb2k/viddl-rb">viddl-rb</a></li>
-</ul>
-</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #27 - Open Apache Graveyard]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/10/05/binaergewitter-talk-number-27-open-apache-graveyard/"/>
-    <updated>2012-10-05T15:30:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/10/05/binaergewitter-talk-number-27-open-apache-graveyard</id>
-    <content type="html"><![CDATA[<p>Seit langem mal wieder vollzählig, auch wenn Ingo immer noch oft rumhustet.</p>
-
-<h2>Apropos Vorletzte Woche</h2>
-
-<ul>
-<li>howto ohne neu installieren fixen</li>
-<li>Iphone Apps koennen (entgegen Marcs Theorie vom "3000x3000" pixel virtual display) /nicht/ sofort vom grossen display Profitieren <a href="http:///arstechnica.com/apple/2012/09/iphone-5-a-little-bit-taller-a-little-bit-baller/">Source</a>
-
-<ul>
-<li>Android ähnliche Verhältnisse!!1elf!</li>
-</ul>
-</li>
-<li>Jetzt mit Opus-Feed</li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://arstechnica.com/staff/2012/10/r-i-p-itunes-ping-2010-2012/">ITunes Ping ist tot</a></li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li><a href="https://new.myspace.com/">Myspace Reboot</a></li>
-<li><a href="http://www.heise.de/open/meldung/Jolla-schmiedet-MeeGo-Allianz-1722737.html">MeeGo</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://boingboing.net/2012/10/02/ex-tsa-agent-stealing-is-comm.html">Apropos TSA ist nen scheiss...</a></li>
-<li><a href="http://www.enterprisenetworkingplanet.com/netsp/u.s.-government-paves-the-way-to-ipv6-with-mandate-compliance.html">US Behoerden MUESSEN per IPv6 erreichbar sein</a></li>
-<li><a href="http://science.slashdot.org/story/12/10/02/2246242/super-bacteria-create-gold">Alchemie in der Neuzeit - Super Bakterien erzeugen Gold</a></li>
-<li><a href="http://arstechnica.com/apple/2012/10/apple-revising-mfi-program-to-limit-third-party-lightning-accessories/">Apples MFi Program</a></li>
-<li><a href="http://arstechnica.com/gaming/2012/09/unreal-tournament-bots-appear-more-human-than-humans/">Unreal Tournament Bots verhalten sich menschlicher als menschliche Spieler</a></li>
-<li><a href="http://www.newscientist.com/article/dn22336-quantum-measurements-leave-schrodingers-cat-alive.html">Schroedingers Katze nicht mehr tot oder lebendig</a></li>
-<li><a href="http://hackaday.com/2012/10/03/finally-an-arm-powered-arduino/">ARM-Powered Arduino</a></li>
-<li><a href="http://tent.io">Tent.io/Tent.is</a>
-
-<ul>
-<li><a href="http://itunes.apple.com/us/app/hello-cruel-world/id396044348?mt=8">Andere Dinge vom selben Hersteller</a></li>
-</ul>
-</li>
-<li><a href="http://www.bbc.com/news/technology-19699196">Megaupload - <code>Unlawful Spying</code> der Regierung</a></li>
-<li><a href="http://yro.slashdot.org/story/12/09/24/1446220/shuttleworth-trust-us-were-trying-to-make-shopping-better">Ubuntu soll cash generieren mit Werbung</a></li>
-<li><a href="http://news.ycombinator.net/item?id=4607744">15 Jahre Slashdot</a></li>
-<li><a href="http://arstechnica.com/security/2012/09/adobe-to-revoke-crypto-key-abused-to-sign-5000-malware-apps/">Adobe verliert Code Signing Key</a></li>
-<li><a href="http://en.fogofworld.com/">Real-life fog of war</a> (rb2k)
-
-<ul>
-<li><a href="http://blog.osmfoundation.org/2012/10/02/apple-maps/">Apple OSM</a></li>
-</ul>
-</li>
-<li><a href="http://news.ycombinator.net/item?id=4561584">HTTP POST</a>
-
-<ul>
-<li><a href="http://stackoverflow.com/questions/626057/is-it-possible-to-cache-post-methods-in-http">Is it possible to cache POST methods in HTTP?</a></li>
-</ul>
-</li>
-<li><a href="http://forum.xda-developers.com/showthread.php?t=1904629">Galaxy S3 pwnen</a>
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=Q2-0B04HPhs">Mit Video</a></li>
-</ul>
-</li>
-<li><a href="http://www.zdnet.com/linkedin-endorsements-offer-more-credibility-behind-skill-sets-7000004717/">LinkedIn baut eigenes Web Of Trust</a></li>
-<li><a href="http://news.nationalpost.com/2012/09/20/woman-who-botched-restoration-of-spanish-fresco-now-wants-to-be-paid-report/">Olds: Frau die die Spanische Fresko <code>restauriert</code> hat, verlangt Geld fuer Besuche</a></li>
-<li><a href="http://mashable.com/2012/09/24/facebook-rumor-private-messages/">Facebook <code>private</code> Messages not so private?</a></li>
-<li><a href="http://techcrunch.com/2012/09/24/google-modern-gamer-study/">Paper: Gamer suchen nach ihren Zukuenftigen lieblingsspielen immer frueher</a></li>
-<li><a href="http://www.golem.de/news/microsoft-typescript-neue-programmiersprache-fuer-web-apps-1210-94860.html">Mircrosoft bringt TypeScript</a></li>
-<li><a href="http://www.golem.de/news/keccak-hash-algorithmus-fuer-sha-3-festgelegt-1210-94887.html">Algorithmus für SHA3 steht fest</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Protest-gegen-Bildungssystem-ueber-50-Unis-gehackt-1722857.html">Project westwind</a></li>
-<li><a href="http://blog.mariadb.org/announcing-the-cassandra-storage-engine/">MariaDB Cassandra storage engine</a> (rb2k)</li>
-<li><a href="http://blog.getbootstrap.com/2012/09/29/onward/">Bootstrap team verlässt Twitter</a></li>
-<li><a href="http://www.npa-uk.org.uk/Pages/Press_Releases.html">We're running out of bacon!</a> (rb2k)
-
-<ul>
-<li><a href="http://www.baconbarter.com/">Bacon Barter</a></li>
-</ul>
-</li>
-<li><a href="http://arstechnica.com/tech-policy/2012/10/hello-im-definitely-not-calling-from-india-can-i-take-control-of-your-pc/">Social Engineering Funktioniert (und der Mensch ist immer noch das schwaechste Glied der Security-Kette)</a></li>
-<li><a href="http://www.h-online.com/security/news/item/Android-malware-creates-3D-maps-of-rooms-1722353.html">Android Malware erstellt 3D-Karten von Raemen</a></li>
-<li><a href="http://arstechnica.com/business/2012/10/with-merger-deutsche-telekom-finally-has-viable-plan-for-us-market/">T-Mobile US merger mit MetroPCS</a> (rb2k)
-
-<ul>
-<li><a href="http://www.apple.com/iphone/specs.html">Marc hat recht</a></li>
-</ul>
-</li>
-<li><a href="http://news.ycombinator.net/item?id=4589554">Persona - Mozilla's decentralized  and secure authentication system</a></li>
-<li><a href="http://www.itif.org/publications/why-itif-rejects-your-do-not-track-request">itif.org ignoriert dein DNT hart</a></li>
-<li><a href="http://hackaday.com/2012/09/27/laser-power-system-keeps-uavs-flying-indefinitely/">UAVs  mit Laser abschiessen damit sie unendlich lange fliegen koennen</a>
-
-<ul>
-<li><a href="http://what-if.xkcd.com/13/">XKCD - What if "Laser Pointer"</a></li>
-</ul>
-</li>
-<li><a href="http://www.heise.de/developer/meldung/Google-schaltet-Feedburner-API-ab-1715561.html">Will Google Feedburner einstellen?</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://codinginmysleep.com/exotic-transaction-types-with-bitcoin/">Exotic transaction types in Bitcoin</a> (rb2k)</li>
-<li><a href="http://io9.com/5949058/what-do-fruits-and-vegetables-look-like-inside-an-mri-short-answer-whoa">What do fruits and vegetables look like inside an MRI</a> (pfleidi)</li>
-<li><a href="http://geekblog.oneandoneis2.org/index.php/2012/09/30/to-understand-the-command-line">To understand the command line</a></li>
-<li><a href="http://www.250bpm.com/blog:7">Does GPL hurt free software</a> (pfleidi)</li>
-<li><a href="http://www.mentalfloss.com/blogs/archives/142550">Funktioniert das Pusten in Nintendo Karten</a></li>
-<li><a href="http://blog.incubaid.com/2012/03/28/the-game-of-distributed-systems-programming-which-level-are-you/">The game of distributed systems programming</a> (pfleidi)</li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>Webseiten von Fluggesellschaften (rb2k)</li>
-<li><a href="http://blog.marc-seeger.de/2012/09/16/backing-up-fitbit-data-using-their-api/">Premium Saftläden</a> (rb2k)</li>
-<li>Die Post, Der Zoll, Alles (rb2k/pfleidi)</li>
-<li>Twitter nervt mit fucking Emails +1 +1 +1</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="https://www.airbnb.com/">AirBNB</a> (pfleidi)
-
-<ul>
-<li><a href="http://www.geek.com/articles/geek-cetera/rent-the-country-of-liechtenstein-from-airbnb-for-only-70000-a-night-20110414/">Liechtenstein</a></li>
-</ul>
-</li>
-<li><a href="http://www.musanim.com/mam/hiccup.htm">250 Cures of Hiccups</a></li>
-<li><a href="http://www.imdb.com/title/tt1276104/">Looper</a> (pfleidi)</li>
-<li><a href="http://docs.python.org/library/shelve.html">python shelve</a>
-
-<ul>
-<li><a href="http://www.ruby-doc.org/stdlib-1.9.3/libdoc/pstore/rdoc/PStore.html#method-i-5B-5D">Ruby PStore</a></li>
-</ul>
-</li>
-<li><a href="http://www.offmaps.com/">Offmaps2</a> (pfleidi)
-
-<ul>
-<li><a href="http://www.golem.de/news/ios-app-offmaps-gibt-openstreetmap-zugunsten-von-mapquest-auf-1208-93931.html">oder nicht</a></li>
-</ul>
-</li>
-<li><a href="http://www.markusreugels.de/liquidart">LiquidArt</a></li>
-<li><a href="https://github.com/AdamLaurie/RFIDIOt">RFIDIOt</a></li>
-<li><a href="https://github.com/etsy/statsd">Graphite/statsd</a> (rb2k)</li>
-<li><a href="https://www.youtube.com/watch?v=F7pYHN9iC9I&amp;feature=player_embedded">Grandioser "Gedankenleser"</a></li>
-<li><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=llceyyrksp8">iPhone 5: Longer Than You Expected</a></li>
-<li><a href="http://www.passbild-online.de/">Passbild online</a> (pfleidi)
-
-<ul>
-<li><a href="http://blog.marc-seeger.de/2009/12/20/biometrische-passfotos-selbstgemacht/">Marcs Blog post</a></li>
-</ul>
-</li>
-<li>Google Plus Events und Bilder und so</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #26 - SSH-Session kackt ab wenn der andere seine Mails liest]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/09/23/binaergewitter-talk-number-26-SSH-session-kackt-ab-wenn-der-andere-seine-mails-liest/"/>
-    <updated>2012-09-23T12:00:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/09/23/binaergewitter-talk-number-26-SSH-session-kackt-ab-wenn-der-andere-seine-mails-liest</id>
-    <content type="html"><![CDATA[<p>Felix ist die einzige Konstante, aber Ingo ist auch wieder aus dem Stress und dem Urlaub zurück. Diesmal weinen wir über First World Problems und freuen und über Kleinigkeiten wie Zugverbindungen mit Google Maps.</p>
-
-<h2>Kategorie der Woche</h2>
-
-<h3>Einsichten der Woche</h3>
-
-<ul>
-<li><a href="http://tech.slashdot.org/story/12/09/20/1645202/sophos-anti-virus-update-identifies-sophos-code-as-malware">Sophos davon überzeugt, dass es selbst ein Virus sei</a></li>
-<li>"Die verklagen sich doch alle gegenseitig" (ingo)</li>
-<li><a href="http://www.pro-linux.de/news/1/18906/software-patentangriff-auf-git.html">Git wird verklagt</a>
-
-<ul>
-<li><a href="http://arstechnica.com/tech-policy/2012/09/patent-office-tries-stack-overflow-for-patents-to-find-prior-art/">Stack Overflow for Patents</a></li>
-<li><a href="http://www.pro-linux.de/news/1/18883/google-aliyun-os-verletzt-android-kompatibilitaet.html">Aliyun OS</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="">IPv4</a>
-
-<ul>
-<li> <a href="http://www.heise.de/ix/meldung/IPv6-Nachholbedarf-bei-Sicherheitsloesungen-1713030.html">IPv6 Sicherheit</a></li>
-</ul>
-</li>
-<li><a href="http://browserfame.com/807/userscripts-org-chrome-disabled">Userscripts.org</a></li>
-</ul>
-
-
-<h2>Apropos</h2>
-
-<ul>
-<li><a href="https://wiki.archlinux.org/index.php/Archboot">Archboot</a></li>
-<li>Opus Codec</li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="https://community.rapid7.com/community/metasploit/blog/2012/09/17/lets-start-the-week-with-a-new-internet-explorer-0-day-in-metasploit">Internet Explorer 0-Day</a>
-
-<ul>
-<li><a href="https://www.bsi.bund.de/ContentBSI/Presse/Pressemitteilungen/Presse2012/Internet%20Explorer%20Warnung%2017092012.html">BSI Pressemitteilung</a></li>
-</ul>
-</li>
-<li><a href="http://www.youtube.com/watch?v=wvsboPUjrGc">Steve Balmer dreht frei</a></li>
-<li><a href="http://news.ycombinator.net/item?id=4517278">Steve Wozniak ueber Samsung Patentstreit</a></li>
-<li><a href="http://www.kickstarter.com/projects/1186217328/the-glitch">The Glitch </a>
-
-<ul>
-<li><a href="http://hakshop.myshopify.com/products/usb-rubber-ducky">USB Rubber Ducky</a></li>
-<li><a href="">Teensy + MicroUSB</a></li>
-</ul>
-</li>
-<li>mal wieder ein <a href="http://www.humblebundle.com/">Humble Bundle</a>
-
-<ul>
-<li><a href="http://indieroyale.com">indieroyale</a></li>
-</ul>
-</li>
-<li><a href="http://www.patentbolt.com/2012/09/microsoft-patent-how-to-silence-your-device-by-whacking-it-off.html">MS Patent: Silence the Phone by whacking it</a></li>
-<li><a href="http://news.ycombinator.com/item?id=4532318">Just Cause 2 Multi Player</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Unmut-und-Erheiterung-ueber-iOS-6-Maps-1714063.html">Lustige Map App</a></li>
-<li><a href="http://iphone.geeks.lt/">IPhone 5 - der naechste logische Schritt</a></li>
-<li><a href="http://lh3.googleusercontent.com/-_nKGZyyI_A4/UFMsGCbHp2I/AAAAAAAADAc/TDi8-qsrMeQ/s389/399025_423307264394003_252774228_n_large.jpg">Lustiges Bild</a></li>
-<li><a href="https://maps.google.de">https://maps.google.de/</a> kann jetzt auch Zug verbindungen in Dtl. (Ingo)</li>
-<li><a href="http://thenextweb.com/google/2012/09/19/security-researchers-hack-android-via-nfc-samsung-galaxy-s-iii/">Android hacked</a></li>
-<li><a href="http://www.zdnet.de/88124335/jailbreak-von-ios-6-schon-erfolgreich/">IOS 6 jailbreak</a></li>
-</ul>
-
-
-<h2>Themen</h2>
-
-<h3>Projekterunde</h3>
-
-<ul>
-<li><a href="http://bgtest.marcseeger.webfactional.com">Marcs BinärgewitterTest Website</a></li>
-<li><a href="https://github.com/makefu/newgrounds-fetcher">Felix Fetcher</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://www.sourcefabric.org/en/community/blog/">Airtime Community Blog</a></li>
-<li><a href="http://www.garage4hackers.com/content/139-google-website-translator-clickjacking-vulnerability.html">Clickjacking am Beispiel Google Translate</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li><a href="http://maxfriedrich.de/post/19892209366/probleme-die-eigentlich-nicht-schlimm-scheinen-aber">First World Problems</a></li>
-<li>UMTS / LTE im Nirgendwo</li>
-<li><a href="http://www.amazon.de/gp/product/B000V9FO2O/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B000V9FO2O&amp;linkCode=as2&amp;tag=tuxradio-21">UMTS Antenne</a></li>
-<li><a href="http://www.lte-anbieter.info/lte-hardware/antenne-bauen/bastelanleitung.php">LTE Antenne selber bauen</a></li>
-<li><a href="http://www.amazon.de/gp/product/B005DQXIIC/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B005DQXIIC&amp;linkCode=as2&amp;tag=trektrip">HUAWEI E353 schneller UMTS Stick, der überall geht, nur nicht an der FritzBox</a></li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://www.newgrounds.com/portal/view/529003">Mr. Literal</a></li>
-<li><a href="http://www.amazon.de/gp/product/3869090758/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3869090758&amp;linkCode=as2&amp;tag=trektrip">Das Känguru-Manifest</a></li>
 </ul>
 
 ]]></content>
