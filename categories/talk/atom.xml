@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/categories/talk/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2012-11-23T14:46:29+01:00</updated>
+  <updated>2012-11-30T13:03:04+01:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,178 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #34 - Sicherheit durch Ignoranz]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2012/11/30/binaergewitter-talk-number-34-sicherheit-durch-ignoranz/"/>
+    <updated>2012-11-30T14:00:00+01:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2012/11/30/binaergewitter-talk-number-34-sicherheit-durch-ignoranz</id>
+    <content type="html"><![CDATA[<p>Mal wieder alle vereint. Wir sprechen über den Tod von wechselbaren CPUs,die Umwelt, Tiefgefrohrene Fische und unsterbliche Quallen und natürlich über jede Menge IT-Themen :)</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/ct/meldung/Wann-sterben-wechselbare-PC-Prozessoren-aus-1756219.html">Gibt es bald keine Desktop-CPUs zum wechseln mehr?</a></li>
+<li><a href="http://www.golem.de/news/mozilla-browser-entwicklung-von-64-bit-firefox-fuer-windows-eingestellt-1211-95910.html">Kein 64bit Firefox für Windows</a></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.theregister.co.uk/2012/11/29/google_webmaster_tools_snafu/">Zombie Google Webmaster aus der Hölle</a></li>
+<li><a href="http://www.youtube.com/watch?v=wwolYFGM9pU">Dieser Goldfisch</a></li>
+<li><a href="http://www.golem.de/news/asus-padfone-3-neues-smartphone-tablet-angekuendigt-1211-96031.html">Padfone</a></li>
+<li><a href="http://www.nytimes.com/2012/12/02/magazine/can-a-jellyfish-unlock-the-secret-of-immortality.html">Unsterbliche  Quallen</a>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Biological_immortality#Lobsters">Lobster</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://torrentfreak.com/anonymous-file-sharing-ruled-illegal-by-german-court-121123/">Darknet "Illegal"</a></li>
+<li><a href="http://www.golem.de/news/ipv6-telekom-verteilt-ipv6-adressen-an-kunden-1211-96035.html">Telekom IPv6</a>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/TUX_web_server">TUX Webserver</a></li>
+</ul>
+</li>
+<li><a href="http://hosted.ap.org/dynamic/stories/A/AS_CHINA_ONION_KIM?SITE=AP&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT&amp;CTIME=2012-11-27-07-38-17">Nordkorea versteht keinen Spass</a></li>
+<li><a href="http://www.golem.de/news/digitale-gesellschaft-vodafone-verkauft-ein-halbes-netz-als-internet-1211-96029.html">Vodafon steigt von DSL auf LTE um und beschneidet Kunden</a>
+
+<ul>
+<li><a href="http://vodafail.digitalegesellschaft.de/">Yadafone remix</a></li>
+</ul>
+</li>
+<li><a href="http://bitcoinmagazine.net/block-reward-halving-a-guide/">Bitcoin Block reward halfing</a>
+
+<ul>
+<li><a href="http://electrum.ecdsa.org/">Electrum</a></li>
+<li><a href="http://multibit.org/">Multibit</a></li>
+</ul>
+</li>
+<li><a href="http://www.indiegogo.com/sticknfind">Stick n Find</a></li>
+<li><a href="http://www.linuxtoday.com/upload/piwik-software-installer-rigged-with-back-door-following-website-compromise-121127180005.html">Backdoor in piwik</a></li>
+<li><a href="http://www.guardian.co.uk/technology/2012/nov/27/apple-fires-mapping-manager-backlash">Apple Feuert Apple Maps Manager</a></li>
+<li><a href="http://www.theregister.co.uk/2012/11/27/google_raters_manual/">Wie Google so gute Resultate liefert -- People</a>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=wshyX6Hw52I">Machine that goes Bing</a></li>
+</ul>
+</li>
+<li><a href="http://www.cumulonimbus.ca/pressurenet-2-1/">pressureNET</a>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=1s0hEi8zhmg">Vanilla Ice denies 'under preassure' ripoff</a></li>
+</ul>
+</li>
+<li><a href="http://yro.slashdot.org/story/12/11/28/2318245/bluetooth-used-to-track-traffic-times">Bluetooth nutzen um Traffic zu tracken</a></li>
+<li><a href="http://www.theregister.co.uk/2012/11/29/amazon_s3_price_cut/">S3 wird billiger</a>
+
+<ul>
+<li><a href="https://twitter.com/josephwykes/status/273938914652340224/photo/1">total der gute schnurbart</a></li>
+<li><a href="http://techcrunch.com/2012/11/26/google-drops-pricing-on-cloud-storage-20-adds-new-features-in-advance-of-rival-amazons-first-big-cloud-summit/">Google auch</a></li>
+<li><a href="http://www.golem.de/news/gmail-e-mail-anhaenge-mit-10-gbyte-dank-google-drive-1211-95998.html">Google kann nun 10GB Anhänge</a></li>
+</ul>
+</li>
+<li><a href="http://www.golem.de/news/umweltschuetzer-nas-hat-bessere-oekobilanz-als-die-cloud-1211-96004.html">NAS Umweltbilanz</a></li>
+<li><a href="http://arstechnica.com/gadgets/2012/11/dell-releases-powerful-well-supported-linux-ultrabook/">Dell bringt Linux Ultrabook - Entwickler als Zielgruppe</a></li>
+<li><a href="http://boingboing.net/2012/11/28/in-finland-piracy-fines-are-o.html">In Finland, piracy fines are orders of magnitude higher than fines for rape, torture and murder</a></li>
+<li><a href="http://arstechnica.com/gadgets/2012/11/lg-explains-existence-of-lte-chip-in-nexus-4/">Warum sind LTE Chips im Nexus 4</a></li>
+<li><a href="http://news.slashdot.org/story/12/11/28/1950230/swedish-stock-exchange-hit-by-programming-snafu?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">Schwedischer explodiert Stock-Exchange durch negative Trades</a></li>
+<li><a href="http://www.golem.de/news/bundeskriminalamt-intern-registrierungszwang-von-prepaid-mobilfunkkarten-sinnlos-1211-96012.html">Regierung findet Registrierungszwang von Prepaid-Mobilfunkkarten doof</a></li>
+<li><a href="http://arstechnica.com/security/2012/11/hack-could-let-browsers-use-cloud-to-carry-out-big-attacks-on-the-cheap/">The Cloud strikes back</a></li>
+<li><a href="http://www.allthingsdistributed.com/2012/11/amazon-redshift.html">Amazon RedShift</a>
+
+<ul>
+<li>this is not the redshift i was looking for ...</li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/open/meldung/OpenShift-nun-offizielles-Red-Hat-Angebot-1758107.html">RedHat OpenShift</a>
+
+<ul>
+<li><a href="https://juju.ubuntu.com/">Ubuntu JuJu</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Kritik-am-geplanten-Leistungsschutzrecht-reisst-nicht-ab-1758645.html">LSR</a></li>
+<li><a href="http://www.golem.de/news/linux-kernel-nvidia-arbeitet-an-freiem-tegra-treiber-mit-1211-95940.html">Nvidia entwickelt Open Source</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Fedora-18-Beta-adds-MATE-and-Cinnamon-desktops-1758243.html">Fedora 18 bietet MATE und Cinnamon als Oberflaechen mit an</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.nytimes.com/2012/11/24/science/scientists-see-advances-in-deep-learning-a-part-of-artificial-intelligence.html?_r=1&amp;pagewanted=all&amp;">Deep learning</a>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Deep_learning">obligatorischer Wikipedia Link</a></li>
+</ul>
+</li>
+<li><a href="http://sinatra-book.gittr.com/">Sinatra Book</a> (pfleidi)</li>
+<li><a href="https://github.com/sinatra/sinatra-recipes">Sinatra Recipes</a> (pfleidi)</li>
+<li><a href="http://tasvideos.org/3767S.html">Gameboy mit Pokemon Gelb vom Spiel aus neu programmieren</a></li>
+<li><a href="http://www.trottercashion.com/2011/02/08/rubys-define_method-method_missing-and-instance_eval.html">Ruby's define_method, method_missing and instance_eval</a> (pfleidi)</li>
+<li><a href="http://www.srccodes.com/p/article/11/spring-3-hello-world-example-tutorial-using-maven-tool-and-eclipse-ide">Hello World in Spring <em>lol</em></a> (pfleidi)</li>
+<li><a href="https://github.com/Herzult/SimplePHPEasyPlus">SimplePHPEasyPlus</a></li>
+<li><a href="http://www.diyphotography.net/long-exposure-fireworks-tutorial">Long Exposure Fireworks</a></li>
+<li><a href="http://slidedecks.wilmoore.com/2012-confoo/diy-private-cloud-using-virtualBox-and-chef">DIY private cloud ...</a> (pfleidi)</li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>pulsaudio (ingo)</li>
+<li>systemd tempfiles <em>MUSS MAN WISSEN</em>
+
+<ul>
+<li>"Systemd-tmpfiles uses configuration files in /usr/lib/tmpfiles.d/ and /etc/tmpfiles.d/"</li>
+<li><a href="http://supervisord.org/">supervisor</a></li>
+</ul>
+</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Hetzner-setzt-Preise-fuer-zusaetzliche-IPv4-Adressen-fest-1758985.html">Hetzner will mehr Geld für IPv4</a></li>
+<li>OVH Preispolitik</li>
+<li>System shutdown fuckup</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://rubygems.org/gems/kodama">Kodama - Ruby based MySQL replication listener</a></li>
+<li><a href="http://www.amazon.com/gp/sendtokindle">Amazon send to Kindle</a></li>
+<li><a href="http://flexget.com/">Flexget</a></li>
+<li><a href="https://github.com/rtomayko/shotgun">shotgun</a></li>
+<li><a href="http://bit.ly/QQ8Y1w">Bytsized Hosting</a> (ref link with love &lt;3)</li>
+<li><a href="https://github.com/sstephenson/rbenv">rbenv</a>
+
+<ul>
+<li><a href="https://github.com/pfleidi/dotfiles">dotfiles</a></li>
+</ul>
+</li>
+<li><a href="https://www.privateinternetaccess.com/">Privateinternetaccess</a></li>
+<li><a href="http://www.dancarlin.com/disp.php/hh">Hardcore History Podcast</a></li>
+<li><a href="https://help.github.com/articles/post-receive-hooks">Github Post-Receive Hooks</a></li>
+<li><a href="http://amzn.to/ToBWRW">MK806 III</a> / <a href="http://dx.com/p/mk808-dual-core-android-4-1-1-google-tv-player-w-1gb-ram-8gb-rom-wi-fi-tf-hdmi-160535">MK808</a>
+
+<ul>
+<li><a href="http://www.ebay.de/itm/320937229589">Krebsplug - TP-LINK WR-703N</a></li>
+</ul>
+</li>
+<li><a href="http://www.bergercity.de/linux/php5-3-log-mail-usage/">php mail log function</a></li>
+<li><a href="http://plexapp.com">Plex</a></li>
+<li><a href="https://itunes.apple.com/de/app/sleep-cycle-alarm-clock/id320606217?mt=8">Sleep Cycle</a></li>
+<li><a href="http://www.google.de/intl/de/enterprise/apps/business/pricing.html">Google Apps</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #33 - Das Springer Sparabo]]></title>
@@ -512,131 +684,6 @@ dust</a> (marc)</li>
 <li><a href="http://theprofoundprogrammer.com/">The Profound programmer</a></li>
 <li><a href="i.imgur.com/7OTTZ.jpg">Cocktails mixen</a></li>
 <li><a href="http://moviesascode.net/">Movies as Code</a> via daswort</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #29 - Alarm für CORBA 11]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/10/19/binaergewitter-talk-number-29-alarm-fuer-corba-11/"/>
-    <updated>2012-10-19T12:30:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/10/19/binaergewitter-talk-number-29-alarm-fuer-corba-11</id>
-    <content type="html"><![CDATA[<p>Auch giftige Kontaktlinsenflüssigkeit hält uns nicht davon ab euch auch diesmal unsere Weisheiten des Lebens zu präsentieren, damit dies gelingt gründen wir eine Selbsthilfegruppe...</p>
-
-<h2>Kategorie des Lebens</h2>
-
-<ul>
-<li><a href="http://arstechnica.com/security/2012/10/solar-panel-control-systems-vulnerable-to-hacks/">Man kann alles kaputt machen - Heute: Solar Panel Kontrollsysteme</a>
-
-<ul>
-<li><a href="http://en.wikipedia.org/wiki/SCADA">SCADA</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://blog.echofon.com/2012/10/changes-coming-for-echofon-desktop-users.html">echofon</a> via @t1m0_o</li>
-</ul>
-
-
-<h2>Untoter der Woche</h2>
-
-<ul>
-<li><a href="http://www.pro-linux.de/news/1/19012/apache-software-foundation-graduiert-openoffice.html">OpenOffice offiziell Apache Top Level Projekt</a> aka "Die Zombies vom Open Apache Graveyard"</li>
-<li><a href="http://www.pro-linux.de/news/1/19011/webos-als-live-system-vorgestellt.html">WTF WebOS Dektop Live-System</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://arstechnica.com/security/2012/10/steam-vulnerability-can-lead-to-remote-insertion-of-malicious-code/">Durch die installierte Steam App geowned</a></li>
-<li><a href="http://arstechnica.com/science/2012/10/contact-lens-solution-hosts-giant-virus-ecosystem-of-parasites/">Gigantischer Virus in Kontaktlinsenflüssigkeit gefunden</a></li>
-<li><a href="http://www.golem.de/news/origin-massenhaft-kostenlose-downloads-durch-key-panne-1210-95089.html">Kostenlose Spiele bei Origin</a></li>
-<li><a href="http://www.raspberrypi.org/archives/2180">Raspberry Pie bekommt mehr RAM</a></li>
-<li><a href="http://arstechnica.com/apple/2012/10/apple-puts-money-where-its-mouth-is-pays-for-swiss-railway-clock-design">Apple wirft Geld auf schweizer Bahn um das Uhrdesign nutzen zu dürfen</a></li>
-<li><a href="http://torrentfreak.cjom/3d-printer-drm-patent-to-stop-people-downloading-a-car-121012/">3D Printer DRM Patente damit die Leute keine Autos mehr downloaden</a></li>
-<li><a href="https://epetitionen.bundestag.de/petitionen/_2012/_08/_28/Petition_35441.html">epetition gegen die GEMA-Vermutung</a></li>
-<li><a href="http://c3s.cc/">Creative Commons Verwertungsgesellschaft</a></li>
-<li><a href="http://www.golem.de/news/razzia-vorbeugung-pirate-bay-entschwebt-in-die-cloud-1210-95157.html">The pirate bay zieht in die cloud</a></li>
-<li><a href="https://www.dropbox.com/spacerace">Dropbox Spacerace</a></li>
-<li><a href="http://www.pro-linux.de/news/1/19006/mediacenter-distribution-openelec-20-erschienen.html">openelec 2.0</a>
-
-<ul>
-<li>VLC mit Opus</li>
-<li><a href="http://en.wikipedia.org/wiki/VC-1">Wiki VC-1</a></li>
-</ul>
-</li>
-<li><a href="http://www.google.com/about/datacenters/gallery/#/">Google Datacenters</a>
-
-<ul>
-<li><a href="https://www.youtube.com/watch?feature=player_embedded&amp;v=avP5d16wEp0">Explore a Google data center with Street View</a></li>
-<li><a href="http://www.google.com/about/datacenters/inside/streetview/">Datacenter Street view</a></li>
-<li><a href="http://twitter.com/pfleidi/status/259002769271296000/photo/1">Stormtrooper im Datacenter</a></li>
-</ul>
-</li>
-<li><a href="https://www.google.com/search?q=conways+game+of+life">Googles Conways game of life</a></li>
-<li><a href="https://www.humblebundle.com/">Humble eBook Bundle - jetzt mit XKCD V0</a></li>
-<li><a href="http://www.golem.de/news/nightly-builds-firefox-mit-webrtc-1210-95086.html">Firefox nightly bekommt WebRTC</a>
-
-<ul>
-<li><a href="http://www.webrtc.org/reference/architecture">WebRTC Architektur</a></li>
-<li><a href="http://www.w3.org/TR/webrtc/">WebRTC Spec</a></li>
-</ul>
-</li>
-<li><a href="http://www.golem.de/news/whispercast-for-kindle-jedem-schueler-das-gleiche-schul-e-book-1210-95147.html">Kindle Whispercast</a></li>
-<li><a href="http://www.amazon.de/gp/help/customer/display.html/?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;linkCode=ur2&amp;nodeId=200935230&amp;site-redirect=de&amp;tag=trektrip">Amazon Cloudplayer</a>
-
-<ul>
-<li><a href="http://www.amazon.de/gp/product/B005VYHQ7U/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B005VYHQ7U&amp;linkCode=as2&amp;tag=trektrip">Hörspiel Mark Brandis Alarm für die Erde</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://gregable.com/2010/09/why-you-should-know-just-little-awk.html">Everyone should know a little awk</a> (pfleidi)</li>
-<li><a href="https://www.youtube.com/watch?v=r7xnKSPWTjo&amp;feature=player_embedded">Broken promises of HTML5</a></li>
-<li><a href="http://hbr.org/2006/10/sleep-deficit-the-performance-killer">Sleep deficit - the performance killer</a> (pfleidi)</li>
-<li><a href="http://vertstudios.com/blog/new-flask-site/">Converting a simple website to Python Flask</a></li>
-<li><a href="https://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-ruby-could-do">10 things you didn't know ruby could do</a> (pfleidi)</li>
-<li><a href="https://speakerdeck.com/u/mitsuhiko/p/didntknow">Things you didn't know about Python</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>Backup zeugs
-
-<ul>
-<li><a href="http://en.wikipedia.org/wiki/Comparison_of_online_backup_services">Vergleich von Backup Diensten</a></li>
-<li><a href="http://www.haystacksoftware.com/arq/">Arq</a></li>
-<li><a href="http://www.crashplan.com/">Crashplan</a></li>
-<li><a href="http://www.acronis.de/backup-recovery/smallbusiness.html">Acronis</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://webconverger.org/upgrade/">Linux Distro auf git</a> via @lightonflux</li>
-<li><a href="http://www.youtube.com/watch?v=8DZkpynFhak&amp;feature=player_embedded">Benefits of being a CISSP</a></li>
-<li><a href="http://blog.programmableweb.com/2012/10/17/rise-of-the-spambots-3-apis-for-beating-captchas/">3 APIs For Beating CAPTCHAs</a></li>
-<li><a href="https://www.amazon.de/dp/B003L20HI4/ref=as_li_ss_til?tag=pfleidi-21">Brita Wasserfilter</a> (pfleidi)</li>
-<li><a href="https://www.amazon.de/dp/B0027V9WX6/ref=as_li_ss_til?tag=pfleidi-21">Biomus Glas Karaffe</a> (pfleidi)</li>
-<li><a href="https://github.com/bastinat0r/random-cooking">Random Cooking</a> via @Bastinat0r</li>
-<li><a href="http://www.espressomushroom.co.uk/">Espresso Mushroom Grow Set</a> (pfleidi)</li>
-<li><a href="https://github.com/mojombo/chronic">Chronic Gem</a> (pfleidi)</li>
-<li><a href="http://ubucon.de">Ubucon</a> (ingo)</li>
 </ul>
 
 ]]></content>
