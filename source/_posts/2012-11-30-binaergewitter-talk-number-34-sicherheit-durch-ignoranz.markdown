@@ -6,10 +6,10 @@ comments: true
 categories: talk
 sharing: true
 audioformats:
-  mp3: http://download.binaergewitter.de/2012-11-22.Binaergewitter.Talk.33.mp3
-  ogg: http://download.binaergewitter.de/2012-11-22.Binaergewitter.Talk.33.ogg
-  m4a: http://download.binaergewitter.de/2012-11-22.Binaergewitter.Talk.33.m4a
-  opus: http://download.binaergewitter.de/2012-11-22.Binaergewitter.Talk.33.opus
+  mp3: http://download.binaergewitter.de/2012-11-29.Binaergewitter.Talk.34.mp3
+  ogg: http://download.binaergewitter.de/2012-11-29.Binaergewitter.Talk.34.ogg
+  m4a: http://download.binaergewitter.de/2012-11-29.Binaergewitter.Talk.34.m4a
+  opus: http://download.binaergewitter.de/2012-11-29.Binaergewitter.Talk.34.opus
 ---
 Mal wieder alle vereint. Wir sprechen über den Tod von wechselbaren CPUs,die Umwelt, Tiefgefrohrene Fische und unsterbliche Quallen und natürlich über jede Menge IT-Themen :)
 
@@ -40,9 +40,9 @@ Mal wieder alle vereint. Wir sprechen über den Tod von wechselbaren CPUs,die Um
 - [Stick n Find]( http://www.indiegogo.com/sticknfind )
 - [Backdoor in piwik]( http://www.linuxtoday.com/upload/piwik-software-installer-rigged-with-back-door-following-website-compromise-121127180005.html )
 - [Apple Feuert Apple Maps Manager]( http://www.guardian.co.uk/technology/2012/nov/27/apple-fires-mapping-manager-backlash )
-- [Wie Google so gute Resultate liefert -- People] ( http://www.theregister.co.uk/2012/11/27/google_raters_manual/ )
+- [Wie Google so gute Resultate liefert -- People]( http://www.theregister.co.uk/2012/11/27/google_raters_manual/ )
   * [Machine that goes Bing]( http://www.youtube.com/watch?v=wshyX6Hw52I )
-- [pressureNET] ( http://www.cumulonimbus.ca/pressurenet-2-1/ )
+- [pressureNET]( http://www.cumulonimbus.ca/pressurenet-2-1/ )
   * [Vanilla Ice denies 'under preassure' ripoff]( http://www.youtube.com/watch?v=1s0hEi8zhmg )
 - [Bluetooth nutzen um Traffic zu tracken]( http://yro.slashdot.org/story/12/11/28/2318245/bluetooth-used-to-track-traffic-times )
 - [S3 wird billiger]( http://www.theregister.co.uk/2012/11/29/amazon_s3_price_cut/ )
@@ -53,7 +53,7 @@ Mal wieder alle vereint. Wir sprechen über den Tod von wechselbaren CPUs,die Um
 - [Dell bringt Linux Ultrabook - Entwickler als Zielgruppe]( http://arstechnica.com/gadgets/2012/11/dell-releases-powerful-well-supported-linux-ultrabook/ )
 - [In Finland, piracy fines are orders of magnitude higher than fines for rape, torture and murder]( http://boingboing.net/2012/11/28/in-finland-piracy-fines-are-o.html )
 - [Warum sind LTE Chips im Nexus 4]( http://arstechnica.com/gadgets/2012/11/lg-explains-existence-of-lte-chip-in-nexus-4/ )
-- [Schwedischer explodiert Stock-Exchange durch negative Trades] ( http://news.slashdot.org/story/12/11/28/1950230/swedish-stock-exchange-hit-by-programming-snafu?utm_source=rss1.0mainlinkanon&utm_medium=feed )
+- [Schwedischer explodiert Stock-Exchange durch negative Trades]( http://news.slashdot.org/story/12/11/28/1950230/swedish-stock-exchange-hit-by-programming-snafu?utm_source=rss1.0mainlinkanon&utm_medium=feed )
 - [Regierung findet Registrierungszwang von Prepaid-Mobilfunkkarten doof]( http://www.golem.de/news/bundeskriminalamt-intern-registrierungszwang-von-prepaid-mobilfunkkarten-sinnlos-1211-96012.html )
 - [The Cloud strikes back]( http://arstechnica.com/security/2012/11/hack-could-let-browsers-use-cloud-to-carry-out-big-attacks-on-the-cheap/ )
 - [Amazon RedShift]( http://www.allthingsdistributed.com/2012/11/amazon-redshift.html )
